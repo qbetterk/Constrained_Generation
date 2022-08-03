@@ -1,0 +1,1184 @@
+{"sentence": "The man stood looking at the field.", "score": -14.9623944116976, "sum_logprob": -22.678749084472656}
+{"sentence": "A man stood looking at the field.", "score": -14.952693554073404, "sum_logprob": -22.664045333862305}
+{"sentence": "The boy stood in the field, looking up at the sky.", "score": -14.406336564675428, "sum_logprob": -24.06258201599121}
+{"sentence": "The girl was standing in the middle of the field, looking up at the sky.", "score": -14.172702337870552, "sum_logprob": -24.97712516784668}
+{"sentence": "The woman stood looking at the field.", "score": -15.778932548315561, "sum_logprob": -23.91638946533203}
+{"sentence": "A person standing in a field looking at the sky.", "score": -16.684482169055254, "sum_logprob": -26.952016830444336}
+{"sentence": "The people standing in the field were looking at me.", "score": -16.64893975705951, "sum_logprob": -26.894601821899414}
+{"sentence": "The child was standing in the middle of the field, looking up at the sky.", "score": -15.622040901855197, "sum_logprob": -27.531352996826172}
+{"sentence": "The kids stood looking at the field.", "score": -16.37824018174349, "sum_logprob": -24.824769973754883}
+{"sentence": "The men stood in the middle of the field, looking at each other.", "score": -13.525031639757964, "sum_logprob": -23.246444702148438}
+{"sentence": "The boys were standing in the middle of the field, looking at each other.", "score": -14.704700849818117, "sum_logprob": -25.602371215820312}
+{"sentence": "A woman stood looking at the field.", "score": -15.155318031262137, "sum_logprob": -22.971166610717773}
+{"sentence": "A boy stands looking at a field.", "score": -16.508821099476677, "sum_logprob": -25.022693634033207}
+{"sentence": "A girl standing in the field, looking up at the sky.", "score": -14.816605288019604, "sum_logprob": -24.747844696044922}
+{"sentence": "The person standing in front of you is looking at the field.", "score": -16.947262005234176, "sum_logprob": -28.306632995605472}
+{"sentence": "The kid was dancing in the room.", "score": -13.445001085846847, "sum_logprob": -20.37881088256836}
+{"sentence": "A kid was dancing in the middle of the room.", "score": -13.559610828460784, "sum_logprob": -21.904117584228516}
+{"sentence": "The kids in the room were dancing.", "score": -13.205080718365483, "sum_logprob": -20.015159606933594}
+{"sentence": "The man dancing in the room was a kid.", "score": -20.98908691528989, "sum_logprob": -33.26546096801758}
+{"sentence": "A man dances with a room full of kids.", "score": -18.609685450783903, "sum_logprob": -29.49436378479004}
+{"sentence": "The boy was dancing in the kids room.", "score": -19.21759060740255, "sum_logprob": -29.822732925415036}
+{"sentence": "The girl was dancing in the kids room.", "score": -18.96053382513323, "sum_logprob": -29.42382049560547}
+{"sentence": "The woman was dancing with kids in the room.", "score": -19.974588262052222, "sum_logprob": -31.657588958740234}
+{"sentence": "A person dancing in a room full of kids.", "score": -18.229363385832286, "sum_logprob": -28.89159393310547}
+{"sentence": "The people in the dance room were kids.", "score": -19.16907988929125, "sum_logprob": -29.747451782226562}
+{"sentence": "The child was dancing in the kids room.", "score": -19.25107946033469, "sum_logprob": -29.87470245361328}
+{"sentence": "The kids in the room were dancing.", "score": -13.205080718365483, "sum_logprob": -20.015159606933594}
+{"sentence": "The men in the room are kids, and they're dancing.", "score": -19.951821078967505, "sum_logprob": -33.32508087158203}
+{"sentence": "The boys dance around the kids in the room.", "score": -17.853092152525722, "sum_logprob": -28.295244216918945}
+{"sentence": "A woman dances with kids in the room.", "score": -20.412606899345366, "sum_logprob": -31.677213668823242}
+{"sentence": "A boy dances with a roomful of kids.", "score": -17.638304205799024, "sum_logprob": -27.9548282623291}
+{"sentence": "A girl dances in a room with kids.", "score": -18.294720562530607, "sum_logprob": -28.390581130981445}
+{"sentence": "The person in charge of the kids dance room.", "score": -19.716007768465232, "sum_logprob": -31.247766494750977}
+{"sentence": "The cat was petting the couch.", "score": -15.344572212399878, "sum_logprob": -23.25802230834961}
+{"sentence": "A cat is not a couch pet.", "score": -13.463944750482291, "sum_logprob": -20.40752410888672}
+{"sentence": "The man on the couch is a pet cat.", "score": -19.491337044118463, "sum_logprob": -30.891687393188477}
+{"sentence": "A man in a couch petting a cat.", "score": -19.57920254300046, "sum_logprob": -31.03094482421875}
+{"sentence": "The boy and his pet cat are couch potatoes.", "score": -19.03336922548086, "sum_logprob": -30.165857315063477}
+{"sentence": "The girl in the couch is a pet cat.", "score": -20.45003266332483, "sum_logprob": -32.41111755371094}
+{"sentence": "The woman in the couch caters to pets.", "score": -21.034307963981043, "sum_logprob": -33.33713150024414}
+{"sentence": "A person with a pet cat or a couch.", "score": -21.5302736906284, "sum_logprob": -34.12318420410156}
+{"sentence": "The people on the couch are petrified of cats.", "score": -20.550182911128502, "sum_logprob": -33.19664764404297}
+{"sentence": "The child of a couch potato and a pet cat.", "score": -21.516938406584888, "sum_logprob": -34.758338928222656}
+{"sentence": "The kids are couch potatoes, cats are pets.", "score": -20.40144675269679, "sum_logprob": -32.33411407470703}
+{"sentence": "The men petted the cat, and the couch.", "score": -22.170599044925076, "sum_logprob": -35.81425857543945}
+{"sentence": "The boys petted the cat as they walked back to the couch.", "score": -19.002787336646357, "sum_logprob": -32.213871002197266}
+{"sentence": "A woman in a couch petting a cat.", "score": -19.145433810137867, "sum_logprob": -30.343467712402344}
+{"sentence": "A boy and his pet cat couch.", "score": -15.560499033076141, "sum_logprob": -23.58530616760254}
+{"sentence": "A girl with a pet cat and a couch.", "score": -17.85271065709153, "sum_logprob": -28.294639587402344}
+{"sentence": "The person in the couch petting the cat.", "score": -18.504449273362198, "sum_logprob": -29.327575683593746}
+{"sentence": "The man climbs the side of the building.", "score": -13.174478116798952, "sum_logprob": -20.44475555419922}
+{"sentence": "A man climbs up a side of a building.", "score": -14.498943377642341, "sum_logprob": -22.979276657104492}
+{"sentence": "The boy climbs up the side of the building.", "score": -12.839873889856506, "sum_logprob": -20.349828720092773}
+{"sentence": "The girl climbs up the side of the building.", "score": -13.037569156293644, "sum_logprob": -20.66315460205078}
+{"sentence": "The woman was climbing the side of the building.", "score": -14.008860142106398, "sum_logprob": -22.202547073364258}
+{"sentence": "A person climbing the side of a building.", "score": -15.024719112309986, "sum_logprob": -23.316043853759766}
+{"sentence": "The people climbing the side of the building.", "score": -16.55353742327977, "sum_logprob": -25.68853378295898}
+{"sentence": "The child climbs up the side of the building.", "score": -13.76170525625503, "sum_logprob": -21.810832977294922}
+{"sentence": "The kids climb up the side of the building.", "score": -13.150743327039994, "sum_logprob": -20.8425235748291}
+{"sentence": "The men climb the side of the building.", "score": -13.779654518117503, "sum_logprob": -21.383895874023438}
+{"sentence": "The boys climb up the side of the building.", "score": -12.792918661604888, "sum_logprob": -20.275409698486328}
+{"sentence": "A woman climbs the side of a building.", "score": -12.845079905899697, "sum_logprob": -19.93358039855957}
+{"sentence": "A boy climbs up a side of a building.", "score": -14.266642744611788, "sum_logprob": -22.61110496520996}
+{"sentence": "A girl climbs up a side of a building.", "score": -14.669274470001893, "sum_logprob": -23.24923324584961}
+{"sentence": "The person climbing up the side of the building.", "score": -14.825745363889652, "sum_logprob": -23.497222900390625}
+{"sentence": "The man was talking about climbing the wall.", "score": -17.180402241629206, "sum_logprob": -26.66133117675781}
+{"sentence": "A man talks to a climbing wall.", "score": -16.291647223422856, "sum_logprob": -24.693519592285153}
+{"sentence": "The boy was talking about climbing the wall.", "score": -16.51688613710381, "sum_logprob": -25.631656646728512}
+{"sentence": "The girl was talking about climbing the wall.", "score": -16.696910076949315, "sum_logprob": -25.911026000976566}
+{"sentence": "The woman was talking about climbing the wall.", "score": -17.50067204533769, "sum_logprob": -27.158340454101562}
+{"sentence": "A person can talk to a wall, but they can't climb it.", "score": -18.256479843677706, "sum_logprob": -31.378725051879886}
+{"sentence": "The people climbing the walls are talking.", "score": -17.2974760342219, "sum_logprob": -26.21807098388672}
+{"sentence": "The child climbs up the wall and talks.", "score": -17.884765725254933, "sum_logprob": -27.75439453125}
+{"sentence": "The kids are talking about climbing the walls.", "score": -15.32414856697757, "sum_logprob": -23.780712127685547}
+{"sentence": "The men were talking about climbing the wall.", "score": -16.428222472376735, "sum_logprob": -25.494064331054684}
+{"sentence": "The boys were talking about climbing the wall.", "score": -15.892917040760766, "sum_logprob": -24.663352966308594}
+{"sentence": "A woman talks to a climbing wall.", "score": -16.750276691539895, "sum_logprob": -25.388671875000004}
+{"sentence": "A boy talks to a climbing wall.", "score": -15.910672434769968, "sum_logprob": -24.116069793701172}
+{"sentence": "A girl climbs a wall to talk to a boy.", "score": -17.152994493654536, "sum_logprob": -27.70884895324707}
+{"sentence": "The person climbing the wall is talking.", "score": -17.077848315598725, "sum_logprob": -25.885177612304688}
+{"sentence": "The man was driving a snowplow when he hit the car.", "score": -15.950571734916636, "sum_logprob": -27.03969955444336}
+{"sentence": "A man drives his car through a snowstorm.", "score": -12.63599286148961, "sum_logprob": -20.02669906616211}
+{"sentence": "The boy was driving a car when he was struck by a snowplow.", "score": -16.826801477628766, "sum_logprob": -29.29716300964355}
+{"sentence": "The girl was driving a car when she was struck by a snowplow.", "score": -16.462046894578496, "sum_logprob": -28.66208839416504}
+{"sentence": "The woman was driving a car with a snow plow.", "score": -16.647557052512944, "sum_logprob": -27.364452362060547}
+{"sentence": "A person may not drive a snow car.", "score": -16.002884419213125, "sum_logprob": -24.83400535583496}
+{"sentence": "The people driving these cars are not snowmobilers.", "score": -17.40299158962949, "sum_logprob": -28.606199264526367}
+{"sentence": "The child was driven to the hospital in a snow car.", "score": -17.84120611830265, "sum_logprob": -29.326515197753903}
+{"sentence": "The kids are driving cars and snowboarding.", "score": -17.041057296370084, "sum_logprob": -26.445089340209964}
+{"sentence": "The men were driving a snow car.", "score": -16.97884394740036, "sum_logprob": -25.73511505126953}
+{"sentence": "The boys were driving in a snowstorm when the car was hit.", "score": -17.9454387330962, "sum_logprob": -30.421434402465824}
+{"sentence": "A woman drives a car through a snowstorm.", "score": -13.04989494883928, "sum_logprob": -20.682689666748047}
+{"sentence": "A boy drives a car through a snowstorm.", "score": -14.105633619549494, "sum_logprob": -22.35592269897461}
+{"sentence": "A girl driving a car with a snowplow.", "score": -15.88782182773132, "sum_logprob": -25.665096282958984}
+{"sentence": "The person driving the car was snowed in.", "score": -15.579593579859552, "sum_logprob": -24.691991806030273}
+{"sentence": "The man was wearing a white shirt, blue jeans and talking on a cell phone.", "score": -15.391198882553855, "sum_logprob": -27.124530792236328}
+{"sentence": "A man wearing a mask talks on a mobile phone.", "score": -11.996841132105653, "sum_logprob": -19.719829559326172}
+{"sentence": "The boy was wearing a white shirt, blue jeans and talking on his cell phone.", "score": -16.239803617715697, "sum_logprob": -28.949113845825195}
+{"sentence": "The girl was wearing a white shirt and blue jeans and was talking on her phone.", "score": -15.455669986595872, "sum_logprob": -27.551315307617188}
+{"sentence": "The woman was wearing a white shirt and blue jeans, and was talking on her cell phone.", "score": -15.746834523928392, "sum_logprob": -28.668123245239258}
+{"sentence": "A person wearing a mask and talking on a cell phone.", "score": -14.632237586617158, "sum_logprob": -24.439899444580078}
+{"sentence": "The people I talk to wear their phones in their pockets.", "score": -17.659199142612174, "sum_logprob": -29.49576568603516}
+{"sentence": "The child was wearing a phone and talking on the phone.", "score": -16.885890988607116, "sum_logprob": -28.204126358032223}
+{"sentence": "The kids are talking about wearing their phones on their heads.", "score": -18.507188708454915, "sum_logprob": -30.912143707275387}
+{"sentence": "The men were wearing phones and talking on them.", "score": -17.106181989223092, "sum_logprob": -27.633228302001953}
+{"sentence": "The boys were wearing phones and talking on them.", "score": -17.232330276885488, "sum_logprob": -27.837007522583008}
+{"sentence": "A woman wearing a headscarf talks on a mobile phone.", "score": -12.380899985811663, "sum_logprob": -20.988327026367188}
+{"sentence": "A boy talks on his phone wearing headphones.", "score": -15.458652306487783, "sum_logprob": -24.50031280517578}
+{"sentence": "A girl wearing a hijab, a headscarf, talks on a mobile phone.", "score": -16.119887770876183, "sum_logprob": -28.735351562500004}
+{"sentence": "The person wearing the phone is talking.", "score": -16.004836204674138, "sum_logprob": -24.837034225463867}
+{"sentence": "The team has been working on the hockey rink for about a year.", "score": -16.187646374303004, "sum_logprob": -27.822872161865238}
+{"sentence": "A team of hockey rinks in the U.", "score": -15.529275850843543, "sum_logprob": -25.08590316772461}
+{"sentence": "The man in the rink is a hockey team.", "score": -19.799944251753434, "sum_logprob": -31.984716415405273}
+{"sentence": "A man in a hockey team rink.", "score": -19.23841497835088, "sum_logprob": -29.855049133300778}
+{"sentence": "The boy and his hockey team were playing in the rink.", "score": -18.725650023396195, "sum_logprob": -31.277034759521484}
+{"sentence": "The girl in the hockey team rink.", "score": -18.611485018547143, "sum_logprob": -28.88215065002441}
+{"sentence": "The woman in the hockey team rink.", "score": -20.107910819551556, "sum_logprob": -31.204372406005856}
+{"sentence": "A person, rink, hockey team, etc.", "score": -19.05246850660566, "sum_logprob": -30.777248382568356}
+{"sentence": "The people at the rink are the best team in hockey.", "score": -18.221605591859063, "sum_logprob": -30.43514060974121}
+{"sentence": "The child hockey team, the rink.", "score": -21.184077142659934, "sum_logprob": -32.87441635131836}
+{"sentence": "The kids in the hockey rink team.", "score": -18.54176645526595, "sum_logprob": -28.773958206176754}
+{"sentence": "The men in the rink hockey team.", "score": -18.242643042525188, "sum_logprob": -28.309764862060547}
+{"sentence": "The boys in the rink hockey team.", "score": -17.678604084141224, "sum_logprob": -27.434463500976562}
+{"sentence": "A woman in a hockey team rink.", "score": -19.54173448401602, "sum_logprob": -30.325754165649418}
+{"sentence": "A boy with a rink hockey team.", "score": -17.86952999945221, "sum_logprob": -27.730751037597656}
+{"sentence": "A girl in a hockey team rink.", "score": -17.568435135905737, "sum_logprob": -27.26349830627441}
+{"sentence": "The person in the hockey rink is the team.", "score": -19.087943616844587, "sum_logprob": -30.83455467224121}
+{"sentence": "The surfer had been surfing in the ocean.", "score": -12.181296035249884, "sum_logprob": -19.306053161621094}
+{"sentence": "A surfer surfs in the ocean.", "score": -9.306266099076085, "sum_logprob": -14.441887855529783}
+{"sentence": "The man surfers in the ocean.", "score": -16.52702976771448, "sum_logprob": -25.647397994995114}
+{"sentence": "A man surfers in the ocean.", "score": -15.047243306490424, "sum_logprob": -23.350997924804688}
+{"sentence": "The boy surfers in the ocean.", "score": -14.890574421638737, "sum_logprob": -23.107872009277344}
+{"sentence": "The girl surfers in the ocean.", "score": -15.244431405002835, "sum_logprob": -23.65700340270996}
+{"sentence": "The woman said the surfers had been in the ocean for about an hour.", "score": -19.39199372628885, "sum_logprob": -34.17529296875}
+{"sentence": "A person surfers in the ocean.", "score": -15.761219456420045, "sum_logprob": -24.4589786529541}
+{"sentence": "The people in the ocean are surfers.", "score": -16.756711581790253, "sum_logprob": -26.55759811401367}
+{"sentence": "The child of oceanic surfers.", "score": -18.679543089285623, "sum_logprob": -28.98776626586914}
+{"sentence": "The kids in the ocean, the surfers.", "score": -17.680532820449, "sum_logprob": -28.561031341552738}
+{"sentence": "The men are surfers, and the women are oceanographers.", "score": -17.419074895195553, "sum_logprob": -29.529132843017578}
+{"sentence": "The boys are surfers, and the ocean is their playground.", "score": -16.02182763344682, "sum_logprob": -27.160493850708008}
+{"sentence": "A woman surfers in the ocean.", "score": -14.325638231903048, "sum_logprob": -22.231178283691406}
+{"sentence": "A boy surfers in the ocean.", "score": -14.489362059164192, "sum_logprob": -22.485252380371094}
+{"sentence": "A girl surfers in the ocean.", "score": -14.653425113621328, "sum_logprob": -22.739852905273438}
+{"sentence": "The person in the ocean is surfers.", "score": -18.92909942292873, "sum_logprob": -30.000600814819336}
+{"sentence": "The man jumps out of the flight of stairs.", "score": -15.589104751190243, "sum_logprob": -25.18255043029785}
+{"sentence": "A man jumps out of a flight of stairs.", "score": -11.919651209070112, "sum_logprob": -19.25493621826172}
+{"sentence": "The boy jumps out of the flight of stairs.", "score": -15.482894313802255, "sum_logprob": -25.01097869873047}
+{"sentence": "The girl jumps out of the flight of stairs.", "score": -14.974170960602644, "sum_logprob": -24.189189910888672}
+{"sentence": "The woman was jumping flights of stairs.", "score": -16.925704071639284, "sum_logprob": -26.26607894897461}
+{"sentence": "A person jumping out of a flight of stairs.", "score": -14.610266819286034, "sum_logprob": -23.601341247558594}
+{"sentence": "The people jumping out of the stairwells and flights of stairs.", "score": -22.317388839464783, "sum_logprob": -38.35850143432617}
+{"sentence": "The child was jumping up and down in the flight of stairs.", "score": -18.38254339393985, "sum_logprob": -31.162422180175785}
+{"sentence": "The kids are flighty, they don't know how to jump stairs.", "score": -21.33146394177071, "sum_logprob": -37.140235900878906}
+{"sentence": "The men jump out of the flight deck stairs.", "score": -20.61187382674719, "sum_logprob": -33.296302795410156}
+{"sentence": "The boys jump into a flight of stairs.", "score": -15.119419827055172, "sum_logprob": -23.962665557861328}
+{"sentence": "A woman jumps out of a flight of stairs.", "score": -12.114038755216397, "sum_logprob": -19.56894874572754}
+{"sentence": "A boy jumps out of a flight of stairs.", "score": -12.148295349437133, "sum_logprob": -19.624286651611328}
+{"sentence": "A girl jumps out of a flight of stairs.", "score": -12.3550062014767, "sum_logprob": -19.958206176757812}
+{"sentence": "The person jumping out of a flight of stairs.", "score": -15.995707724644323, "sum_logprob": -25.839374542236328}
+{"sentence": "The band played music from their instruments.", "score": -16.192731198733956, "sum_logprob": -25.12861824035645}
+{"sentence": "A band instrument that is used to play music.", "score": -13.889726459088424, "sum_logprob": -22.01373291015625}
+{"sentence": "The man with the music instrument is the band leader.", "score": -21.048036440235602, "sum_logprob": -34.000877380371094}
+{"sentence": "A man walks past music instruments in the bandstand.", "score": -20.550140404755776, "sum_logprob": -33.19657897949219}
+{"sentence": "The boy had music instruments in his band.", "score": -20.754374612057997, "sum_logprob": -32.207584381103516}
+{"sentence": "The girl had music instruments and a band.", "score": -20.989107540845964, "sum_logprob": -32.57185363769531}
+{"sentence": "The woman in the music video is a band instrument.", "score": -22.549321380067564, "sum_logprob": -36.42604446411133}
+{"sentence": "A person with a music instrument or a band.", "score": -19.03022820629085, "sum_logprob": -30.160879135131836}
+{"sentence": "The people and instruments of the band are music.", "score": -21.584638595183808, "sum_logprob": -34.209346771240234}
+{"sentence": "The child had music instruments in his band.", "score": -20.637557548231438, "sum_logprob": -32.026302337646484}
+{"sentence": "The kids have music instruments and band instruments.", "score": -18.6706592698195, "sum_logprob": -28.973979949951172}
+{"sentence": "The men banded together to form a new music instrument.", "score": -20.186499113055486, "sum_logprob": -33.18159484863281}
+{"sentence": "The boys banded together to form their own music instrument.", "score": -18.41672870915711, "sum_logprob": -30.272531509399414}
+{"sentence": "A woman walks past music instruments at the bandstand.", "score": -20.33561546452978, "sum_logprob": -32.85003662109375}
+{"sentence": "A boy and his band of merry music instruments.", "score": -19.482213646999888, "sum_logprob": -30.87722778320313}
+{"sentence": "A girl with a music instrument and a band.", "score": -18.679319800351912, "sum_logprob": -29.604726791381832}
+{"sentence": "The person in the band is the most important instrument in the music.", "score": -19.023962369573958, "sum_logprob": -32.2497673034668}
+{"sentence": "The man sitting next to me was talking circles around me.", "score": -16.50101598277007, "sum_logprob": -27.123575210571286}
+{"sentence": "A man sits in a circle talking on a cell phone.", "score": -15.204485661553429, "sum_logprob": -24.992401123046875}
+{"sentence": "The boy sat in the circle, talking.", "score": -15.979054937778534, "sum_logprob": -24.797025680541992}
+{"sentence": "The girl was sitting in the circle, talking to her friends.", "score": -16.548924219532474, "sum_logprob": -27.641298294067383}
+{"sentence": "The woman was sitting in the circle, talking.", "score": -17.65883395536317, "sum_logprob": -27.98736572265625}
+{"sentence": "A person sitting in a circle talks.", "score": -16.770677561147295, "sum_logprob": -25.419593811035156}
+{"sentence": "The people sitting in the circle were talking.", "score": -16.999485986768153, "sum_logprob": -26.38057708740234}
+{"sentence": "The child sat in circles, talking to himself.", "score": -17.033256057541735, "sum_logprob": -26.995891571044922}
+{"sentence": "The kids were sitting in a circle, talking.", "score": -12.431951773524142, "sum_logprob": -19.70331573486328}
+{"sentence": "The men sat in a circle, talking.", "score": -11.825664080329972, "sum_logprob": -18.351604461669922}
+{"sentence": "The boys were sitting in a circle, talking.", "score": -12.723681452394237, "sum_logprob": -20.16567611694336}
+{"sentence": "A woman sits in a circle talking on a mobile phone.", "score": -15.452661756973189, "sum_logprob": -25.400341033935547}
+{"sentence": "A boy sits in a circle talking to a girl.", "score": -15.10505280516129, "sum_logprob": -24.400615692138672}
+{"sentence": "A girl sits in circles talking to herself.", "score": -16.829224661479852, "sum_logprob": -26.116357803344727}
+{"sentence": "The person sitting next to me was talking circles around me.", "score": -16.571910674612436, "sum_logprob": -27.240108489990234}
+{"sentence": "The man was moving his eyes from side to side, looking for something.", "score": -15.93597167320407, "sum_logprob": -27.390300750732422}
+{"sentence": "A man moves his eyes to look at the sky.", "score": -14.87219344949878, "sum_logprob": -24.024456024169922}
+{"sentence": "The boy was moving his eyes back and forth, looking for something.", "score": -15.603873888408733, "sum_logprob": -26.45197105407715}
+{"sentence": "The girl moves her eyes to look at me.", "score": -14.846081357097633, "sum_logprob": -23.52945327758789}
+{"sentence": "The woman was moving her eyes back and forth as if she was looking for something.", "score": -15.968971698589918, "sum_logprob": -28.142763137817383}
+{"sentence": "A person looking at the eyes of a moving object.", "score": -19.563055055809834, "sum_logprob": -31.602046966552734}
+{"sentence": "The people looking to move into the eye of the storm.", "score": -20.544670648816098, "sum_logprob": -33.77033996582031}
+{"sentence": "The child looks up at me, eyes wide, mouth moving.", "score": -16.273005299459232, "sum_logprob": -27.180437088012695}
+{"sentence": "The kids eyes move to look at me.", "score": -18.009285458781854, "sum_logprob": -27.94762992858887}
+{"sentence": "The men look at each other, eyes moving back and forth.", "score": -15.147357646427103, "sum_logprob": -25.30029296875}
+{"sentence": "The boys look at each other, eyes moving back and forth.", "score": -15.08995371224357, "sum_logprob": -25.20441246032715}
+{"sentence": "A woman moves her eyes to look at the sky.", "score": -15.238650334644198, "sum_logprob": -24.61642837524414}
+{"sentence": "A boy moves his eyes to look at the sky.", "score": -14.720640519736179, "sum_logprob": -23.779638290405273}
+{"sentence": "A girl moves her eyes to look at me.", "score": -14.585250401485613, "sum_logprob": -23.116064071655273}
+{"sentence": "The person moving the eye is looking.", "score": -18.118220937870305, "sum_logprob": -27.462087631225586}
+{"sentence": "The man looks at the window and watches.", "score": -16.19388776681885, "sum_logprob": -25.130413055419922}
+{"sentence": "A man looks at the window of a watch shop.", "score": -16.576139328635428, "sum_logprob": -26.77700042724609}
+{"sentence": "The boy looks up at the window and watches.", "score": -14.98894357473993, "sum_logprob": -23.755874633789062}
+{"sentence": "The girl looks up at the window and watches.", "score": -15.20174461622421, "sum_logprob": -24.093141555786133}
+{"sentence": "The woman looks at the window and watches.", "score": -16.116288316650994, "sum_logprob": -25.009990692138672}
+{"sentence": "A person looking at the window watching.", "score": -20.671900923519456, "sum_logprob": -31.33274269104004}
+{"sentence": "The people in the window look like they're watching a movie.", "score": -18.11186677328095, "sum_logprob": -30.251846313476566}
+{"sentence": "The child looks up at the window and watches.", "score": -15.373500600047734, "sum_logprob": -24.3653564453125}
+{"sentence": "The kids in the window look like they're watching a movie.", "score": -17.678612038852798, "sum_logprob": -29.528190612792965}
+{"sentence": "The men were looking at the window, watching.", "score": -17.24669854087593, "sum_logprob": -27.33417510986328}
+{"sentence": "The boys look at each other, watching the window.", "score": -15.471248748407463, "sum_logprob": -24.99216651916504}
+{"sentence": "A woman looks at her watch in the window of a shop.", "score": -16.888443213495222, "sum_logprob": -28.20838928222656}
+{"sentence": "A boy looks at his watch in the window of his house.", "score": -15.788212751317438, "sum_logprob": -26.370698928833008}
+{"sentence": "A girl looks at a watch on a window.", "score": -16.770854592334707, "sum_logprob": -26.58001327514648}
+{"sentence": "The person looking at the window is watching.", "score": -17.02485796867729, "sum_logprob": -26.419950485229492}
+{"sentence": "The athlete is preparing to run a marathon.", "score": -12.540564501460276, "sum_logprob": -19.46101951599121}
+{"sentence": "An athlete preparing to run a marathon.", "score": -11.795408564547937, "sum_logprob": -17.878496170043945}
+{"sentence": "The athletes are preparing to run a marathon.", "score": -12.971223259448024, "sum_logprob": -20.129335403442383}
+{"sentence": "The man runs up to the athlete and prepares to punch him in the face.", "score": -20.15894538010191, "sum_logprob": -35.09876251220703}
+{"sentence": "A man walks past athletes preparing to run.", "score": -20.57970333322176, "sum_logprob": -31.936521530151367}
+{"sentence": "The boy athlete was preparing to run.", "score": -20.788920271319324, "sum_logprob": -31.510110855102543}
+{"sentence": "The girl athlete was preparing to run.", "score": -20.361890003591594, "sum_logprob": -30.86285400390625}
+{"sentence": "The woman athlete was preparing to run a marathon.", "score": -20.492131948116025, "sum_logprob": -32.477840423583984}
+{"sentence": "A person preparing to run for athlete of the year.", "score": -22.28150525576689, "sum_logprob": -35.99341583251953}
+{"sentence": "The people running the show are preparing the athletes.", "score": -21.437422275078116, "sum_logprob": -33.97602462768555}
+{"sentence": "The child athletes are preparing to run.", "score": -19.865253660027214, "sum_logprob": -30.11009407043457}
+{"sentence": "The kids are preparing to run the athletes.", "score": -20.746292155388208, "sum_logprob": -32.19504165649414}
+{"sentence": "The men were preparing to run the athletes.", "score": -20.693185892038414, "sum_logprob": -32.11262893676758}
+{"sentence": "The boys prepare to run the athletes.", "score": -20.645916618281163, "sum_logprob": -31.293357849121097}
+{"sentence": "A woman walks past athletes preparing to run.", "score": -20.056497004929607, "sum_logprob": -31.124586105346683}
+{"sentence": "A boy runs past athletes preparing for the start of the Rio 2016 Olympic Games at the Olympic Park in Rio de Janeiro, Brazil, Saturday, Aug.", "score": -20.42074848433735, "sum_logprob": -40.31771469116211}
+{"sentence": "A girl athlete from the United States prepares to run.", "score": -20.569027403037747, "sum_logprob": -33.227088928222656}
+{"sentence": "The person responsible for preparing the athlete for the run.", "score": -20.266308823797395, "sum_logprob": -32.73807907104492}
+{"sentence": "The man was wearing a white shirt, blue jeans and walking gear.", "score": -16.927780377237546, "sum_logprob": -28.696281433105465}
+{"sentence": "A man wearing a mask walks in front of gear.", "score": -18.498140538399618, "sum_logprob": -29.881790161132812}
+{"sentence": "The boy was wearing walking gear and a backpack.", "score": -16.848308996575785, "sum_logprob": -26.702770233154297}
+{"sentence": "The girl was wearing walking gear and a backpack.", "score": -17.661474337011786, "sum_logprob": -27.991550445556637}
+{"sentence": "The woman was wearing walking gear and was not wearing a helmet.", "score": -18.421075384601647, "sum_logprob": -30.768310546875004}
+{"sentence": "A person walking down the street wearing a gear.", "score": -18.587312007197113, "sum_logprob": -29.458904266357422}
+{"sentence": "The people walking the streets are wearing the same gear.", "score": -19.25179269565123, "sum_logprob": -31.09923553466797}
+{"sentence": "The child was wearing a walking gear.", "score": -16.93473895857296, "sum_logprob": -25.668264389038086}
+{"sentence": "The kids are wearing their gear and walking around.", "score": -17.111425314426054, "sum_logprob": -27.11978149414062}
+{"sentence": "The men were wearing the same gear and walking in the same direction.", "score": -17.129026450009217, "sum_logprob": -29.037437438964844}
+{"sentence": "The boys were wearing their gear and walking around.", "score": -18.302705582191265, "sum_logprob": -29.00783348083496}
+{"sentence": "A woman walks past a gear worn by a member of the U.", "score": -15.983316526802504, "sum_logprob": -27.0952091217041}
+{"sentence": "A boy walks into a bar wearing gear.", "score": -15.972924266569757, "sum_logprob": -24.787511825561523}
+{"sentence": "A girl walks into a bar wearing nothing but her gear.", "score": -15.95255653573347, "sum_logprob": -26.222043991088867}
+{"sentence": "The person wearing the gear is walking.", "score": -17.05540383556433, "sum_logprob": -25.851158142089844}
+{"sentence": "The man on stage gives a speech.", "score": -15.222574710136227, "sum_logprob": -23.073108673095703}
+{"sentence": "A man gives a stage speech at the Republican National Convention in Cleveland, Ohio, U.", "score": -14.551960762214957, "sum_logprob": -25.94036102294922}
+{"sentence": "The boy was given a stage speech.", "score": -19.17790718873394, "sum_logprob": -29.06827163696289}
+{"sentence": "The girl was given a stage speech.", "score": -19.245521247756592, "sum_logprob": -29.170755386352536}
+{"sentence": "The woman was given a stage speech.", "score": -19.441016997686138, "sum_logprob": -29.46707153320312}
+{"sentence": "A person may stage a speech or give a speech.", "score": -19.094363259859033, "sum_logprob": -30.844924926757812}
+{"sentence": "The people on the stage are giving speeches.", "score": -15.842164473354197, "sum_logprob": -24.584592819213867}
+{"sentence": "The child is given a stage speech.", "score": -19.188042187735793, "sum_logprob": -29.083633422851566}
+{"sentence": "The kids were given a stage speech.", "score": -19.291639645871673, "sum_logprob": -29.240657806396484}
+{"sentence": "The men on stage were giving speeches.", "score": -15.917769702509034, "sum_logprob": -24.126827239990234}
+{"sentence": "The boys were given a stage speech.", "score": -18.45128161899967, "sum_logprob": -27.9669132232666}
+{"sentence": "A woman gives a stage speech at the Democratic National Convention in Philadelphia, Pennsylvania, U.", "score": -14.741311878609169, "sum_logprob": -26.27789878845215}
+{"sentence": "A boy gives a stage speech at the Democratic National Convention in Philadelphia, Pennsylvania, U.", "score": -15.781777362002087, "sum_logprob": -28.13263511657715}
+{"sentence": "A girl gives a speech in front of a stage.", "score": -15.68576778497058, "sum_logprob": -25.338699340820312}
+{"sentence": "The person giving the speech is a member of the stage crew.", "score": -18.189835816193742, "sum_logprob": -30.382076263427734}
+{"sentence": "The man was rubbing soap into his hands.", "score": -17.832482948214256, "sum_logprob": -27.673259735107422}
+{"sentence": "A man rubs soap on his hands.", "score": -16.597956520610396, "sum_logprob": -25.757465362548828}
+{"sentence": "The boy was rubbing soap into his hands.", "score": -17.871840677453914, "sum_logprob": -27.734336853027344}
+{"sentence": "The girl was rubbing soap into her hands.", "score": -17.64770245312057, "sum_logprob": -27.386508941650394}
+{"sentence": "The woman was rubbing soap on her hands.", "score": -17.90805318062636, "sum_logprob": -27.7905330657959}
+{"sentence": "A person rubbing soap on his hands.", "score": -17.963140604248487, "sum_logprob": -27.227029800415036}
+{"sentence": "The people rubbing soap on their hands.", "score": -19.078210711092936, "sum_logprob": -28.917160034179688}
+{"sentence": "The child rubs the soap on his hands.", "score": -18.591897173141156, "sum_logprob": -29.46617126464844}
+{"sentence": "The kids were rubbing soap on their hands.", "score": -17.242247292528, "sum_logprob": -26.757305145263672}
+{"sentence": "The men were rubbing soap into their hands.", "score": -18.288760734003873, "sum_logprob": -28.381332397460938}
+{"sentence": "The boys rub soap on their hands.", "score": -17.699141120067296, "sum_logprob": -26.826881408691406}
+{"sentence": "A woman rubs soap on her hands.", "score": -16.731277724972525, "sum_logprob": -25.964359283447266}
+{"sentence": "A boy rubs soap on his hands.", "score": -17.152119788705164, "sum_logprob": -26.617441177368164}
+{"sentence": "A girl rubbing soap on her hands.", "score": -16.915702173757964, "sum_logprob": -25.639410018920902}
+{"sentence": "The person rubs the soap on his hands.", "score": -18.704508126653433, "sum_logprob": -29.6446475982666}
+{"sentence": "The man was waving his hands in front of his face.", "score": -12.550887726485348, "sum_logprob": -20.630544662475586}
+{"sentence": "A man waves a hand in front.", "score": -15.99240175128005, "sum_logprob": -24.239948272705078}
+{"sentence": "The boy was waving his hands in front of his face.", "score": -12.255409437619855, "sum_logprob": -20.144851684570312}
+{"sentence": "The girl was waving her hands in front of her face.", "score": -12.04773696943956, "sum_logprob": -19.803489685058594}
+{"sentence": "The woman was waving her hand in front of her face.", "score": -12.44653977235817, "sum_logprob": -20.459022521972656}
+{"sentence": "A person waving a hand in front of the camera.", "score": -16.19967101198008, "sum_logprob": -26.168855667114258}
+{"sentence": "The people in front of me are waving their hands.", "score": -15.218550724006914, "sum_logprob": -24.583959579467773}
+{"sentence": "The child in front of me was waving his hands in the air.", "score": -15.172462408575372, "sum_logprob": -25.72063446044922}
+{"sentence": "The kids were waving their hands in front of their faces.", "score": -14.14725117851528, "sum_logprob": -23.25457000732422}
+{"sentence": "The men wave their hands in front of them.", "score": -12.856824562381918, "sum_logprob": -20.376693725585938}
+{"sentence": "The boys wave their hands in front of them.", "score": -13.073669214777478, "sum_logprob": -20.720369338989258}
+{"sentence": "A woman waves a hand in front of a mural.", "score": -16.324357552713675, "sum_logprob": -26.37027359008789}
+{"sentence": "A boy waves a hand in front of his face.", "score": -14.02834513078431, "sum_logprob": -22.66130828857422}
+{"sentence": "A girl waves a hand in front of her face.", "score": -13.45212992282127, "sum_logprob": -21.730493545532227}
+{"sentence": "The person in front of me was waving his hands.", "score": -13.926512849787267, "sum_logprob": -22.496809005737305}
+{"sentence": "The man in the yard was mowing his lawn.", "score": -15.965695864033473, "sum_logprob": -25.7908935546875}
+{"sentence": "A man in a yard mowing his lawn.", "score": -15.821406326176641, "sum_logprob": -25.075239181518555}
+{"sentence": "The boy mows the lawn yard.", "score": -17.365599737470497, "sum_logprob": -26.321327209472653}
+{"sentence": "The girl mows the lawn yard.", "score": -18.832011023395626, "sum_logprob": -28.543991088867188}
+{"sentence": "The woman in the yard was mowing the lawn.", "score": -16.71833141053735, "sum_logprob": -27.006696701049805}
+{"sentence": "A person lawn mowing a yard.", "score": -18.81773720992679, "sum_logprob": -28.522356033325195}
+{"sentence": "The people in the yard were mowing the lawn.", "score": -16.099066692861836, "sum_logprob": -26.006340026855472}
+{"sentence": "The child in the yard was mowing the lawn.", "score": -17.533764219083405, "sum_logprob": -28.323942184448242}
+{"sentence": "The kids in the yard are mowing the lawn.", "score": -15.513719699157809, "sum_logprob": -25.060773849487305}
+{"sentence": "The men in the yard were mowing the lawn.", "score": -15.687825801850142, "sum_logprob": -25.342023849487305}
+{"sentence": "The boys in the yard were mowing the lawn.", "score": -15.865111617369013, "sum_logprob": -25.62841033935547}
+{"sentence": "A woman in the yard mows her lawn.", "score": -16.512275302203346, "sum_logprob": -26.17019271850586}
+{"sentence": "A boy mowing his lawn in the yard.", "score": -15.628996636859247, "sum_logprob": -24.77029037475586}
+{"sentence": "A girl in the yard mowing the lawn.", "score": -15.832364993128461, "sum_logprob": -25.092607498168945}
+{"sentence": "The person in the yard was mowing the lawn.", "score": -16.273806848947352, "sum_logprob": -26.28861427307129}
+{"sentence": "The man was creating a pottery wheel.", "score": -19.95872336927241, "sum_logprob": -30.972856521606445}
+{"sentence": "A man creates a pottery wheel.", "score": -17.38064871351509, "sum_logprob": -26.34413719177246}
+{"sentence": "The boy was creating a pottery wheel.", "score": -19.31317893163048, "sum_logprob": -29.971071243286136}
+{"sentence": "The girl creates a pottery wheel.", "score": -19.40410491353897, "sum_logprob": -29.411123275756832}
+{"sentence": "The woman was creating a pottery wheel.", "score": -19.957705687684424, "sum_logprob": -30.971277236938477}
+{"sentence": "A person is not required to create a pottery wheel.", "score": -20.76416721490421, "sum_logprob": -34.13113784790039}
+{"sentence": "The people of the United States are creating a pottery wheel.", "score": -22.103724640149906, "sum_logprob": -36.91935729980469}
+{"sentence": "The child creates a pottery wheel.", "score": -19.124841270195567, "sum_logprob": -28.987838745117188}
+{"sentence": "The kids don't know how to create a pottery wheel.", "score": -19.88398556789232, "sum_logprob": -33.21177673339844}
+{"sentence": "The men said they were creating a pottery wheel.", "score": -21.729926032997234, "sum_logprob": -35.10239791870117}
+{"sentence": "The boys create a pottery wheel.", "score": -18.861932802172134, "sum_logprob": -28.589344024658203}
+{"sentence": "A woman creates a pottery wheel.", "score": -17.262007312857836, "sum_logprob": -26.164310455322266}
+{"sentence": "A boy creates a pottery wheel.", "score": -16.407614564869913, "sum_logprob": -24.869293212890625}
+{"sentence": "A girl creates a pottery wheel.", "score": -17.385571499223463, "sum_logprob": -26.351598739624023}
+{"sentence": "The person responsible for creating the pottery wheel.", "score": -20.227044369946505, "sum_logprob": -32.05770492553711}
+{"sentence": "The man in the sofa sat up and held out his hand.", "score": -16.94116407194447, "sum_logprob": -28.296447753906246}
+{"sentence": "A man sits on a sofa holding a book.", "score": -14.497709835623276, "sum_logprob": -22.97732162475586}
+{"sentence": "The boy was sitting on the sofa, holding his head in his hands.", "score": -13.662720756717782, "sum_logprob": -23.48310089111328}
+{"sentence": "The girl was sitting on the sofa, holding a book.", "score": -13.270338249841423, "sum_logprob": -21.813142776489258}
+{"sentence": "The woman was sitting on the sofa, holding a cup of tea.", "score": -14.227513625133327, "sum_logprob": -24.11874008178711}
+{"sentence": "A person sitting in a sofa holding a cup of tea.", "score": -18.364348767679523, "sum_logprob": -30.186431884765625}
+{"sentence": "The people sitting on the sofa, holding their phones.", "score": -18.71275757576652, "sum_logprob": -30.228481292724606}
+{"sentence": "The child was sitting on the sofa, holding a book.", "score": -14.467583280245096, "sum_logprob": -23.781116485595703}
+{"sentence": "The kids were sitting on the sofa, holding hands.", "score": -14.400203867463864, "sum_logprob": -23.262006759643555}
+{"sentence": "The men sat in the sofa, holding hands.", "score": -16.046895400350692, "sum_logprob": -25.432615280151367}
+{"sentence": "The boys sat in the sofa, holding hands.", "score": -15.629396184127861, "sum_logprob": -24.770923614501953}
+{"sentence": "A woman sits on a sofa holding a baby.", "score": -13.934203772201252, "sum_logprob": -22.084224700927734}
+{"sentence": "A boy sits on a sofa holding a book.", "score": -13.909948124011711, "sum_logprob": -22.0457820892334}
+{"sentence": "A girl sitting on the sofa, holding a book.", "score": -13.508564217012639, "sum_logprob": -21.821657180786133}
+{"sentence": "The person sitting on the sofa next to me held up a hand.", "score": -16.0058090923315, "sum_logprob": -27.133338928222653}
+{"sentence": "The man sitting next to me was holding a newspaper.", "score": -13.98835489917565, "sum_logprob": -22.596708297729492}
+{"sentence": "A man holds a newspaper as he sits on a bus.", "score": -15.419726016539883, "sum_logprob": -25.346202850341797}
+{"sentence": "The boy was sitting on the floor, holding a newspaper.", "score": -15.253465739746433, "sum_logprob": -25.072912216186523}
+{"sentence": "The girl was sitting on the floor, holding a newspaper.", "score": -15.10693859435831, "sum_logprob": -24.83205795288086}
+{"sentence": "The woman sitting next to me was holding a newspaper.", "score": -14.974533445503404, "sum_logprob": -24.189775466918945}
+{"sentence": "A person holds a newspaper sitting on a table.", "score": -17.014999635659553, "sum_logprob": -26.966957092285153}
+{"sentence": "The people sitting in the front row were holding up newspaper clippings.", "score": -19.061016143784485, "sum_logprob": -32.761539459228516}
+{"sentence": "The child was sitting on the floor, holding a newspaper.", "score": -15.864524444283598, "sum_logprob": -26.077341079711914}
+{"sentence": "The kids were sitting on the floor, holding newspaper.", "score": -18.18156488165006, "sum_logprob": -29.37039566040039}
+{"sentence": "The men held a newspaper sitting on the table.", "score": -16.288224357505182, "sum_logprob": -25.815095901489258}
+{"sentence": "The boys held a newspaper and sat down.", "score": -17.272860088798442, "sum_logprob": -26.804811477661133}
+{"sentence": "A woman holds a newspaper as she sits on a bus.", "score": -15.484462662494439, "sum_logprob": -25.452613830566406}
+{"sentence": "A boy sits on a bench holding a newspaper.", "score": -14.034339704669978, "sum_logprob": -22.242929458618164}
+{"sentence": "A girl sits on a bench holding a newspaper.", "score": -14.448894064970219, "sum_logprob": -22.899953842163086}
+{"sentence": "The person sitting next to me was holding a newspaper.", "score": -14.37453592199926, "sum_logprob": -23.220542907714844}
+{"sentence": "The man sat looking at her hair.", "score": -16.93370331117061, "sum_logprob": -25.666694641113278}
+{"sentence": "A man looks at his phone as he sits in a hair salon.", "score": -17.501585514999636, "sum_logprob": -29.669006347656246}
+{"sentence": "The boy sat looking at his hair.", "score": -15.327687258761086, "sum_logprob": -23.23242950439453}
+{"sentence": "The girl sat looking at her hair.", "score": -15.189990197576762, "sum_logprob": -23.023719787597656}
+{"sentence": "The woman sat looking down at her hair.", "score": -16.479596956309297, "sum_logprob": -25.573789596557617}
+{"sentence": "A person sitting at a desk, looking at a computer screen, or in a hair salon.", "score": -21.102222219630953, "sum_logprob": -38.025848388671875}
+{"sentence": "The people sitting in the hair salon are looking at me.", "score": -19.745867548470454, "sum_logprob": -32.457305908203125}
+{"sentence": "The child sat looking at the hair.", "score": -16.974726525407057, "sum_logprob": -25.728874206542965}
+{"sentence": "The kids were sitting on the floor, looking at the hair.", "score": -18.490630649896737, "sum_logprob": -30.88448715209961}
+{"sentence": "The men sat in the hair salon, looking at each other.", "score": -17.544774964429628, "sum_logprob": -29.304645538330075}
+{"sentence": "The boys sat looking at the hair.", "score": -17.800045643280907, "sum_logprob": -26.97982406616211}
+{"sentence": "A woman looks at her hair while sitting in a car.", "score": -16.794974196242116, "sum_logprob": -27.606769561767575}
+{"sentence": "A boy looks at his hair as he sits on a bench.", "score": -16.27544789858033, "sum_logprob": -27.18451690673828}
+{"sentence": "A girl with hair that looks like satin.", "score": -15.961779797579492, "sum_logprob": -25.29771614074707}
+{"sentence": "The person sitting next to me looks hairless.", "score": -17.521635199907927, "sum_logprob": -27.769920349121097}
+{"sentence": "The man was climbing the mountain equipment.", "score": -20.32044271502393, "sum_logprob": -30.800031661987305}
+{"sentence": "A man walks past equipment at the scene of a shooting at Claremont Road in the Moss Side neighborhood of Manchester, Ten people were taken to climb a mountain in", "score": -19.576316833496094, "sum_logprob": -39.15263366699219}
+{"sentence": "The boy had been climbing the mountain with his equipment.", "score": -19.88473856168216, "sum_logprob": -32.1216926574707}
+{"sentence": "The girl had been climbing the mountain with her equipment.", "score": -20.344976312390465, "sum_logprob": -32.86515808105469}
+{"sentence": "The woman was climbing equipment on the mountain.", "score": -18.760350448806907, "sum_logprob": -29.11316680908203}
+{"sentence": "A person must not climb a mountain equipment.", "score": -20.585805735497537, "sum_logprob": -31.94599151611328}
+{"sentence": "The people climbing the mountain are the equipment.", "score": -19.44911193958496, "sum_logprob": -30.182018280029297}
+{"sentence": "The child climbs up to the top of the equipment mountain.", "score": -21.66619619845683, "sum_logprob": -35.61384963989258}
+{"sentence": "The kids are climbing the mountain, and the equipment is on the ground.", "score": -20.773361130297694, "sum_logprob": -35.70466995239258}
+{"sentence": "The men had been climbing equipment at the base of the mountain.", "score": -18.555322413716013, "sum_logprob": -30.99254035949707}
+{"sentence": "The boys climb the equipment ladder to the top of the mountain.", "score": -18.086644853324085, "sum_logprob": -30.209718704223633}
+{"sentence": "A woman climbs equipment on the mountain.", "score": -18.555569928197386, "sum_logprob": -28.124984741210938}
+{"sentence": "A boy climbs equipment on the mountain.", "score": -18.118205837300646, "sum_logprob": -27.46206474304199}
+{"sentence": "A girl in mountain climbing equipment is seen.", "score": -20.780863831362634, "sum_logprob": -32.24869155883789}
+{"sentence": "The person climbing the mountain is the equipment.", "score": -19.665910074010768, "sum_logprob": -30.518455505371097}
+{"sentence": "The man sat staring into space for a long time.", "score": -13.829048098587984, "sum_logprob": -22.339365005493164}
+{"sentence": "A man stares into space as he sits on a bench.", "score": -14.903924983204499, "sum_logprob": -24.498353958129883}
+{"sentence": "The boy sat staring at the space.", "score": -14.191905462250453, "sum_logprob": -21.510906219482422}
+{"sentence": "The girl sat staring into space for a moment.", "score": -13.110355356152322, "sum_logprob": -20.778512954711914}
+{"sentence": "The woman sat staring into space for a moment.", "score": -13.854264232087619, "sum_logprob": -21.957529067993164}
+{"sentence": "A person sat staring at the space.", "score": -18.977001659724564, "sum_logprob": -28.763755798339844}
+{"sentence": "The people sat staring at the space.", "score": -17.73497728862636, "sum_logprob": -26.88119888305664}
+{"sentence": "The child sat staring at the space.", "score": -14.942325754622667, "sum_logprob": -22.648330688476562}
+{"sentence": "The kids sat staring at the space.", "score": -15.894142344518128, "sum_logprob": -24.091014862060547}
+{"sentence": "The men sat staring into space for a moment.", "score": -13.787454392879363, "sum_logprob": -21.851642608642578}
+{"sentence": "The boys sat staring into space for a moment.", "score": -14.042651972695042, "sum_logprob": -22.256103515625}
+{"sentence": "A woman stares into space as she sits on a bench.", "score": -14.812328256938848, "sum_logprob": -24.34779167175293}
+{"sentence": "A boy stares into space as he sits on a bench.", "score": -14.026559513001294, "sum_logprob": -23.056182861328125}
+{"sentence": "A girl stares into space as she sits on a bench.", "score": -14.41854866499599, "sum_logprob": -23.700515747070312}
+{"sentence": "The person sitting next to me was staring at the space.", "score": -16.7640133934574, "sum_logprob": -27.55587768554688}
+{"sentence": "The man kicking the ball in the head.", "score": -17.596185395438965, "sum_logprob": -27.306562423706055}
+{"sentence": "A man in a headscarf kicks a ball.", "score": -15.800655426057881, "sum_logprob": -25.524288177490234}
+{"sentence": "The boy had been kicking the ball around with his friends when he was hit in the head.", "score": -17.48651477869597, "sum_logprob": -31.51040458679199}
+{"sentence": "The girl kicks the ball away and heads back to the bench.", "score": -17.854661885183674, "sum_logprob": -29.822242736816406}
+{"sentence": "The woman kicking the ball in the head.", "score": -19.05323257277498, "sum_logprob": -29.567674636840817}
+{"sentence": "A person with a head injury kicks a ball.", "score": -17.929216738297463, "sum_logprob": -28.4158935546875}
+{"sentence": "The people are kicking the head off the ball.", "score": -19.773636444684747, "sum_logprob": -31.339101791381832}
+{"sentence": "The child kicks the head of the ball.", "score": -18.004102411370585, "sum_logprob": -27.9395866394043}
+{"sentence": "The kids are kicking the head off the ball.", "score": -17.123682510000876, "sum_logprob": -27.139207839965824}
+{"sentence": "The men kick the ball away and head for the door.", "score": -17.91401656928592, "sum_logprob": -29.44619750976563}
+{"sentence": "The boys kick the ball and head for the goal.", "score": -16.232899188127323, "sum_logprob": -26.22253227233887}
+{"sentence": "A woman kicks a man in the head with a ballpoint pen.", "score": -15.453912575247747, "sum_logprob": -26.19775390625}
+{"sentence": "A boy kicks a soccer ball in the head.", "score": -14.559321949972656, "sum_logprob": -23.074970245361328}
+{"sentence": "A girl kicks a soccer ball with her head.", "score": -13.520836019150572, "sum_logprob": -21.429080963134766}
+{"sentence": "The person kicking the ball is the head coach.", "score": -15.950701988520464, "sum_logprob": -25.28015899658203}
+{"sentence": "The dancer in the stage costume is a woman.", "score": -15.053584786905885, "sum_logprob": -23.85832405090332}
+{"sentence": "A dancer on stage at a costume party.", "score": -11.607447582918013, "sum_logprob": -18.01296615600586}
+{"sentence": "The man in the costume is a stage dancer.", "score": -21.028271430549204, "sum_logprob": -33.32756423950195}
+{"sentence": "A man walks past dancers in a stage costume.", "score": -19.872701301644238, "sum_logprob": -31.496109008789062}
+{"sentence": "The boy dancer, costume designer and stage manager.", "score": -23.49269823865426, "sum_logprob": -37.23341751098633}
+{"sentence": "The girl in the stage costume was a dancer.", "score": -17.214817797825116, "sum_logprob": -27.283647537231445}
+{"sentence": "The woman on stage was a costume dancer.", "score": -19.880595412965867, "sum_logprob": -30.851613998413086}
+{"sentence": "A person, dancer, costume designer, stage manager, etc.", "score": -21.15354102075621, "sum_logprob": -35.3322868347168}
+{"sentence": "The people on the stage were all dancers, and they were all wearing costumes.", "score": -21.333188233773164, "sum_logprob": -37.14323806762695}
+{"sentence": "The child of a dancer and a stage costume designer.", "score": -20.470145772747546, "sum_logprob": -33.06735610961914}
+{"sentence": "The kids in the stage costume are dancers.", "score": -20.085084270696427, "sum_logprob": -31.168949127197262}
+{"sentence": "The men and women in costume, dancers and stagehands.", "score": -22.15512902894085, "sum_logprob": -36.41753387451172}
+{"sentence": "The boys in the stage costume are dancers.", "score": -19.327883693126424, "sum_logprob": -29.993890762329098}
+{"sentence": "A woman walks past dancers in stage costumes.", "score": -19.513320519099324, "sum_logprob": -30.28166007995606}
+{"sentence": "A boy on stage with dancers in costume.", "score": -18.21537581302104, "sum_logprob": -28.2674503326416}
+{"sentence": "A girl on stage with dancers in costume.", "score": -17.577389013162342, "sum_logprob": -27.277393341064457}
+{"sentence": "The person behind the stage costume is a dancer.", "score": -19.01299111132589, "sum_logprob": -30.133560180664062}
+{"sentence": "The man stood up, hands in pockets.", "score": -12.923762179109838, "sum_logprob": -20.055683135986328}
+{"sentence": "A man in a pocket handkerchief stood.", "score": -18.818453712457558, "sum_logprob": -29.825239181518555}
+{"sentence": "The boy stood up, hands in pockets.", "score": -13.110578037379497, "sum_logprob": -20.345592498779297}
+{"sentence": "The girl stood up, hands in pockets.", "score": -14.028176540789042, "sum_logprob": -21.769563674926758}
+{"sentence": "The woman stood up, hands in pockets.", "score": -14.285165723435973, "sum_logprob": -22.168371200561523}
+{"sentence": "A person standing on the pocket of a handkerchief.", "score": -17.670737205286272, "sum_logprob": -29.04630661010742}
+{"sentence": "The people standing in line to get their hands on a pocket protector.", "score": -19.792541805963214, "sum_logprob": -33.552677154541016}
+{"sentence": "The child was standing in the middle of the road, hands in pockets.", "score": -17.26403423102117, "sum_logprob": -29.672937393188477}
+{"sentence": "The kids were standing in the middle of the street, hands in pockets.", "score": -16.626464683942025, "sum_logprob": -28.577100753784176}
+{"sentence": "The men pocketed their hands and stood up.", "score": -15.988365335865534, "sum_logprob": -25.33985137939453}
+{"sentence": "The boys were standing in the middle of the street, hands in their pockets.", "score": -15.462094468669912, "sum_logprob": -26.921070098876953}
+{"sentence": "A woman stands in the pocket of a handbag.", "score": -17.684001812756602, "sum_logprob": -28.566635131835938}
+{"sentence": "A boy stands next to a pocket handkerchief.", "score": -18.52837555746729, "sum_logprob": -29.930631637573242}
+{"sentence": "A girl in a pocket handkerchief stands.", "score": -18.74502246038208, "sum_logprob": -29.708858489990234}
+{"sentence": "The person standing next to him hands him a pocket knife.", "score": -17.448759783327027, "sum_logprob": -28.681430816650394}
+{"sentence": "The cat was sitting on the floor.", "score": -9.729741238807879, "sum_logprob": -14.747529983520506}
+{"sentence": "A cat and a dog sit on the floor.", "score": -10.981436332310112, "sum_logprob": -17.404403686523438}
+{"sentence": "The man with the cat sat down on the floor.", "score": -15.439766875739782, "sum_logprob": -24.94131088256836}
+{"sentence": "A man sits on the floor of the catacombs.", "score": -15.36140965848758, "sum_logprob": -25.25034523010254}
+{"sentence": "The boy was sitting on the floor, catatonic.", "score": -14.821253768333047, "sum_logprob": -24.362462997436523}
+{"sentence": "The girl was sitting on the floor, catatonic.", "score": -14.542923322341125, "sum_logprob": -23.904956817626953}
+{"sentence": "The woman was sitting on the floor, catatonic.", "score": -15.418370712677634, "sum_logprob": -25.343975067138672}
+{"sentence": "A person sitting in the catacomb floor.", "score": -20.454196619798946, "sum_logprob": -32.41771697998047}
+{"sentence": "The people sitting on the floor are cats.", "score": -18.040179715298247, "sum_logprob": -27.995573043823242}
+{"sentence": "The child was sitting on the floor catatonic.", "score": -15.365350024419476, "sum_logprob": -24.82109832763672}
+{"sentence": "The kids were sitting on the floor, catatonic.", "score": -15.391243748900513, "sum_logprob": -25.29938507080078}
+{"sentence": "The men sat on the floor of the catwalk.", "score": -15.721683308460266, "sum_logprob": -25.396717071533203}
+{"sentence": "The boys were sitting on the floor catatonic.", "score": -15.84840070922418, "sum_logprob": -25.601415634155273}
+{"sentence": "A woman sits on the floor of the catacombs.", "score": -15.046819032365992, "sum_logprob": -24.73323631286621}
+{"sentence": "A boy and his cat sit on the floor.", "score": -12.253339702985866, "sum_logprob": -19.42023468017578}
+{"sentence": "A girl in a cat costume sits on the floor.", "score": -14.47449201893341, "sum_logprob": -23.38201141357422}
+{"sentence": "The person sitting on the floor is a cat.", "score": -15.882206107976879, "sum_logprob": -25.171600341796875}
+{"sentence": "The man sitting next to me stretches out his arms.", "score": -14.454732459277945, "sum_logprob": -23.3500919342041}
+{"sentence": "A man stretches his arms as he sits on a bench.", "score": -14.82814168248229, "sum_logprob": -24.3737850189209}
+{"sentence": "The boy stretches his arms and sits up.", "score": -14.429751483056409, "sum_logprob": -22.392745971679688}
+{"sentence": "The girl was sitting on the bed, stretching her arms and legs.", "score": -14.565498429399394, "sum_logprob": -24.69169807434082}
+{"sentence": "The woman sitting next to me stretches out her arms.", "score": -14.946075428962263, "sum_logprob": -24.1438045501709}
+{"sentence": "A person stretches his arms out in front of him as he sits down.", "score": -18.02538704441518, "sum_logprob": -30.981529235839847}
+{"sentence": "The people sitting in the front row stretch out their arms.", "score": -16.810156384370266, "sum_logprob": -27.631725311279297}
+{"sentence": "The child was sitting on the floor, stretching his arms and legs.", "score": -15.572920310785392, "sum_logprob": -26.399497985839844}
+{"sentence": "The kids were sitting on the floor, stretching out their arms.", "score": -15.74437272193074, "sum_logprob": -26.297473907470703}
+{"sentence": "The men sat in a circle, stretching out their arms.", "score": -14.069595052079311, "sum_logprob": -23.126922607421875}
+{"sentence": "The boys stretch their arms and sit up.", "score": -15.402160989384027, "sum_logprob": -23.901775360107422}
+{"sentence": "A woman stretches her arms out in front of her as she sits on a bench.", "score": -15.712408173415332, "sum_logprob": -27.690610885620117}
+{"sentence": "A boy stretches his arms in front of him as he sits on a bench.", "score": -15.000111288169949, "sum_logprob": -26.116710662841797}
+{"sentence": "A girl sits on a bench stretching her arms.", "score": -15.097320771351646, "sum_logprob": -23.927640914916992}
+{"sentence": "The person sitting next to him stretches out his arms.", "score": -15.337936956207889, "sum_logprob": -24.77681541442871}
+{"sentence": "The man lying on the bed looks up.", "score": -13.419102713968682, "sum_logprob": -20.82437515258789}
+{"sentence": "A man lies on a bed looking at the ceiling.", "score": -14.415552210216262, "sum_logprob": -23.286800384521484}
+{"sentence": "The boy was lying on the bed, looking up at the ceiling.", "score": -12.706369918066374, "sum_logprob": -21.540069580078125}
+{"sentence": "The girl was lying on the bed, looking up at the ceiling.", "score": -12.711917956714938, "sum_logprob": -21.549474716186523}
+{"sentence": "The woman lying on the bed looks up.", "score": -13.557513555354777, "sum_logprob": -21.039167404174805}
+{"sentence": "A person lying in bed at night, looking at the stars.", "score": -15.794542497426955, "sum_logprob": -26.381271362304688}
+{"sentence": "The people lying in bed at night, looking at the stars.", "score": -18.307676664114634, "sum_logprob": -30.578903198242184}
+{"sentence": "The child lies on the bed, looking up at the ceiling.", "score": -12.576391319903523, "sum_logprob": -21.006065368652344}
+{"sentence": "The kids were lying on the bed looking at each other.", "score": -13.87160813298994, "sum_logprob": -22.801481246948242}
+{"sentence": "The men lying on the bed look at each other.", "score": -14.448481661021834, "sum_logprob": -23.339994430541992}
+{"sentence": "The boys lie in bed, looking at each other.", "score": -13.041021273858062, "sum_logprob": -21.066390991210938}
+{"sentence": "A woman lies on a bed looking at the ceiling.", "score": -14.060810553687606, "sum_logprob": -22.71375274658203}
+{"sentence": "A boy lies on a bed looking up at the ceiling.", "score": -13.613465680658482, "sum_logprob": -22.377159118652344}
+{"sentence": "A girl is lying on the bed, looking up at the ceiling.", "score": -12.98493298938847, "sum_logprob": -22.01229476928711}
+{"sentence": "The person lying in the bed looks up.", "score": -14.292326367073168, "sum_logprob": -22.17948341369629}
+{"sentence": "The man stood watch over the wall.", "score": -16.33640279512634, "sum_logprob": -24.76135635375977}
+{"sentence": "A man stands watch in front of a wall of the U.", "score": -15.68573892367361, "sum_logprob": -26.199539184570312}
+{"sentence": "The boy stood in the wall, watching.", "score": -15.569938335820499, "sum_logprob": -24.162139892578125}
+{"sentence": "The girl was standing in front of the wall, watching.", "score": -15.373007485630719, "sum_logprob": -25.2694091796875}
+{"sentence": "The woman standing next to the wall was watching.", "score": -17.729425052155726, "sum_logprob": -28.099245071411133}
+{"sentence": "A person standing watch at the wall.", "score": -16.50375108321414, "sum_logprob": -25.0150089263916}
+{"sentence": "The people standing watch at the wall.", "score": -16.557840065346813, "sum_logprob": -25.096992492675778}
+{"sentence": "The child was standing in front of the wall, watching.", "score": -16.506134343503277, "sum_logprob": -27.131988525390625}
+{"sentence": "The kids were standing in front of the wall, watching.", "score": -15.681211474374033, "sum_logprob": -25.776020050048828}
+{"sentence": "The men stood in the middle of the wall, watching.", "score": -16.21230260958687, "sum_logprob": -26.649002075195312}
+{"sentence": "The boys were standing in front of the wall, watching.", "score": -15.496828649874573, "sum_logprob": -25.47294044494629}
+{"sentence": "A woman stands in front of a wall of watches.", "score": -16.88913264275011, "sum_logprob": -27.282608032226566}
+{"sentence": "A boy stands in front of a mural depicting Russian President Vladimir Putin and Republican presidential candidate Donald Trump, on the walls of a barbecue bar 'Keule R watch", "score": -13.749589920043945, "sum_logprob": -27.49917984008789}
+{"sentence": "A girl standing on the wall, watching.", "score": -15.040183447744793, "sum_logprob": -23.340042114257812}
+{"sentence": "The person standing watch on the wall.", "score": -16.690894959742234, "sum_logprob": -25.29866600036621}
+{"sentence": "The man prepares to eat his meal.", "score": -14.223140990587172, "sum_logprob": -21.558250427246094}
+{"sentence": "A man prepares to eat a meal.", "score": -13.094353274589611, "sum_logprob": -19.847328186035156}
+{"sentence": "The boy prepares to eat his meal.", "score": -14.53669551086135, "sum_logprob": -22.033510208129883}
+{"sentence": "The girl was preparing to eat a meal.", "score": -14.989062155125184, "sum_logprob": -23.260709762573242}
+{"sentence": "The woman prepares to eat her meal.", "score": -14.614187859201675, "sum_logprob": -22.15096664428711}
+{"sentence": "A person preparing to eat a meal.", "score": -15.608744094751328, "sum_logprob": -23.658432006835938}
+{"sentence": "The people are preparing to eat their meals.", "score": -17.6852042654546, "sum_logprob": -27.444705963134766}
+{"sentence": "The child is preparing to eat a meal.", "score": -14.411617577079209, "sum_logprob": -22.364604949951172}
+{"sentence": "The kids were preparing meals and eating.", "score": -17.2040211253727, "sum_logprob": -26.07641983032227}
+{"sentence": "The men prepare to eat their meal.", "score": -14.674645506587437, "sum_logprob": -22.242603302001953}
+{"sentence": "The boys prepare to eat their meal.", "score": -14.236416908077802, "sum_logprob": -21.578372955322266}
+{"sentence": "A woman prepares to eat a meal.", "score": -13.073282946394057, "sum_logprob": -19.815391540527344}
+{"sentence": "A boy prepares to eat a meal.", "score": -13.218483732317397, "sum_logprob": -20.03547477722168}
+{"sentence": "A girl prepares to eat a meal.", "score": -13.894831955376729, "sum_logprob": -21.060626983642578}
+{"sentence": "The person responsible for preparing and eating the meal.", "score": -16.0433945479278, "sum_logprob": -25.427066802978516}
+{"sentence": "The man with the ball bounces time and time again.", "score": -18.98361290571722, "sum_logprob": -30.666019439697266}
+{"sentence": "A man bounces a ball in time with the music.", "score": -16.590977594915095, "sum_logprob": -26.80097007751465}
+{"sentence": "The boy had time to bounce on the balls of his feet.", "score": -16.543007853919374, "sum_logprob": -27.63141632080078}
+{"sentence": "The girl had time to bounce on the balls of her feet.", "score": -16.509092382251925, "sum_logprob": -27.574768066406246}
+{"sentence": "The woman was bouncing up and down in time with the ball.", "score": -19.205874831246078, "sum_logprob": -32.07914352416992}
+{"sentence": "A person bounces a ball in time with the music.", "score": -18.550109301989437, "sum_logprob": -29.965740203857425}
+{"sentence": "The people in the ballroom were bouncing up and down in time with the music.", "score": -19.933803405126312, "sum_logprob": -35.13014602661133}
+{"sentence": "The child bounces up and down in time with the ball.", "score": -18.304302308549637, "sum_logprob": -30.087730407714844}
+{"sentence": "The kids had time to bounce around and play ball.", "score": -18.223738287791313, "sum_logprob": -29.438522338867188}
+{"sentence": "The men were bouncing balls in time with the music.", "score": -19.84319094380606, "sum_logprob": -32.0545768737793}
+{"sentence": "The boys were bouncing balls in time with the music.", "score": -18.36365745948488, "sum_logprob": -29.66454696655273}
+{"sentence": "A woman bounces on the balls of her feet in time with the music.", "score": -15.457677437861351, "sum_logprob": -26.568222045898438}
+{"sentence": "A boy bounces on the balls of his feet in time with the music.", "score": -14.471889011225015, "sum_logprob": -24.873876571655273}
+{"sentence": "A girl bounces on the balls of her feet time and time again.", "score": -16.518601556843585, "sum_logprob": -28.002634048461918}
+{"sentence": "The person to bounce the ball time and time again.", "score": -18.745416638812245, "sum_logprob": -30.281238555908207}
+{"sentence": "The man with the hair cut style.", "score": -17.883047182784644, "sum_logprob": -27.10563087463379}
+{"sentence": "A man cuts his hair in style.", "score": -15.187270836657593, "sum_logprob": -23.01959800720215}
+{"sentence": "The boy cut his hair and style his beard.", "score": -17.22400738500325, "sum_logprob": -27.298212051391598}
+{"sentence": "The girl cut off her hair and style.", "score": -17.028088001543498, "sum_logprob": -26.424962997436523}
+{"sentence": "The woman cut off her hair in style.", "score": -16.949898591034785, "sum_logprob": -26.303625106811523}
+{"sentence": "A person whose hair has been cut or styling.", "score": -17.823169431782247, "sum_logprob": -28.2478199005127}
+{"sentence": "The people in the hair styling business know how to cut hair.", "score": -19.582592360211088, "sum_logprob": -32.70836639404297}
+{"sentence": "The child hair style is cut short.", "score": -19.311131964538006, "sum_logprob": -29.270202636718746}
+{"sentence": "The kids cut the hair and style it.", "score": -17.808936156109663, "sum_logprob": -27.636718750000004}
+{"sentence": "The men cut off their hair and styles.", "score": -17.500012027206353, "sum_logprob": -27.157316207885742}
+{"sentence": "The boys cut off their hair in style.", "score": -16.57867956647278, "sum_logprob": -25.727550506591797}
+{"sentence": "A woman cuts her hair in style.", "score": -14.605381710329691, "sum_logprob": -22.137619018554688}
+{"sentence": "A boy cuts his hair in style.", "score": -14.625977628961836, "sum_logprob": -22.16883659362793}
+{"sentence": "A girl cuts her hair in style.", "score": -13.772333617552768, "sum_logprob": -20.874954223632812}
+{"sentence": "The person responsible for cutting the hair style.", "score": -19.308509641349374, "sum_logprob": -29.963825225830078}
+{"sentence": "The man on the leash was walking in the middle of the street.", "score": -16.89630248689666, "sum_logprob": -28.642919540405277}
+{"sentence": "A man in a leash walks past a street sign.", "score": -20.44549679949583, "sum_logprob": -33.02753829956055}
+{"sentence": "The boy was walking along the street when the leash snapped.", "score": -18.785213550335254, "sum_logprob": -30.87822914123535}
+{"sentence": "The girl was walking along the street when the leash snapped.", "score": -18.85646099249793, "sum_logprob": -30.995342254638675}
+{"sentence": "The woman was walking down the street with her leash.", "score": -17.297981369563296, "sum_logprob": -27.94305992126465}
+{"sentence": "A person walking down the street is not a leash.", "score": -18.61410500759602, "sum_logprob": -30.069118499755863}
+{"sentence": "The people walking the streets leash their dogs.", "score": -19.1987426035961, "sum_logprob": -29.793483734130856}
+{"sentence": "The child had been walking along the street when the leash snapped.", "score": -19.632414987445117, "sum_logprob": -32.79158401489258}
+{"sentence": "The kids were walking down the street, leash in hand.", "score": -18.569968553897215, "sum_logprob": -30.5244197845459}
+{"sentence": "The men walking down the street leash their dogs.", "score": -17.658352573111827, "sum_logprob": -27.986602783203125}
+{"sentence": "The boys were leash walking in the street.", "score": -19.382135462804722, "sum_logprob": -30.07808113098144}
+{"sentence": "A woman in a leash walks in front of a street sign.", "score": -20.14986231093379, "sum_logprob": -33.65586471557617}
+{"sentence": "A boy with a leash walks his dog on a street.", "score": -17.35575205578013, "sum_logprob": -28.52854919433594}
+{"sentence": "A girl walks down the street with a leash.", "score": -13.069075624644038, "sum_logprob": -20.713088989257812}
+{"sentence": "The person was walking down the street when the leash snapped.", "score": -18.082334169493553, "sum_logprob": -29.72286987304687}
+{"sentence": "The kid slides out of the pool.", "score": -13.27243051741913, "sum_logprob": -20.11724281311035}
+{"sentence": "A kid slides into a pool of blood.", "score": -14.8330975354304, "sum_logprob": -23.0186767578125}
+{"sentence": "The kids slide down the stairs to the pool.", "score": -14.736008491505562, "sum_logprob": -23.354999542236328}
+{"sentence": "The man slides the kid into the pool.", "score": -20.36399908359463, "sum_logprob": -31.601781845092773}
+{"sentence": "A man slides his kids into the pool.", "score": -19.112637891847506, "sum_logprob": -29.659862518310543}
+{"sentence": "The boy slides into the kid pool.", "score": -19.916223116144792, "sum_logprob": -30.187349319458008}
+{"sentence": "The girl in the pool slides into the kids pool.", "score": -20.974297329413787, "sum_logprob": -33.88175964355469}
+{"sentence": "The woman said the kids were playing in the pool when the slide went down.", "score": -19.989112477217244, "sum_logprob": -34.80306625366211}
+{"sentence": "A person slides a kid into a pool.", "score": -20.364308812773583, "sum_logprob": -31.602262496948242}
+{"sentence": "The people at the kids pool slide.", "score": -22.45115951970646, "sum_logprob": -34.02959442138672}
+{"sentence": "The child slides into the kid pool.", "score": -19.92259178139788, "sum_logprob": -30.197002410888672}
+{"sentence": "The kids slide down the stairs to the pool.", "score": -14.736008491505562, "sum_logprob": -23.354999542236328}
+{"sentence": "The men slide the kids into the pool.", "score": -20.505680517620373, "sum_logprob": -31.8216495513916}
+{"sentence": "The boys slide into the kid pool.", "score": -18.871624851130697, "sum_logprob": -28.604034423828125}
+{"sentence": "A woman slides her kids into a pool.", "score": -19.76578298521419, "sum_logprob": -30.673442840576172}
+{"sentence": "A boy slides into the kid pool.", "score": -18.282414465280475, "sum_logprob": -27.710958480834957}
+{"sentence": "A girl slides into a pool of kids.", "score": -19.41936441848111, "sum_logprob": -30.135854721069336}
+{"sentence": "The person in charge of the kids slides into the pool.", "score": -20.833215769379414, "sum_logprob": -34.24463653564453}
+{"sentence": "The man washes his hands and stands up.", "score": -13.105577637307745, "sum_logprob": -20.77094078063965}
+{"sentence": "A man washes his hands in a stand.", "score": -17.262232746126767, "sum_logprob": -27.35879516601563}
+{"sentence": "The boy washes his hands and stands up.", "score": -13.059783743737492, "sum_logprob": -20.698362350463867}
+{"sentence": "The girl washes her hands and stands up.", "score": -13.102140568033155, "sum_logprob": -20.765493392944336}
+{"sentence": "The woman washes her hands and stands up.", "score": -13.179184593904962, "sum_logprob": -20.88759994506836}
+{"sentence": "A person can wash their hands standing up.", "score": -16.519999406985896, "sum_logprob": -25.636487960815433}
+{"sentence": "The people standing in line to wash their hands.", "score": -16.130533159610266, "sum_logprob": -25.565172195434567}
+{"sentence": "The child washes his hands and stands up.", "score": -14.062197295555194, "sum_logprob": -22.287080764770508}
+{"sentence": "The kids wash their hands and stand up.", "score": -14.236706626854499, "sum_logprob": -22.093170166015625}
+{"sentence": "The men wash their hands and stand up.", "score": -13.782771475251716, "sum_logprob": -21.38873291015625}
+{"sentence": "The boys wash their hands and stand up.", "score": -13.202388157257829, "sum_logprob": -20.488067626953125}
+{"sentence": "A woman washes her hands in a stand.", "score": -16.855017058248247, "sum_logprob": -26.713401794433594}
+{"sentence": "A boy stands in front of a mural depicting Russian President Vladimir Putin washing hands with children in Moscow, Russia.", "score": -15.333017036850057, "sum_logprob": -28.45195770263672}
+{"sentence": "A girl washes her hands in a stand.", "score": -16.62384887696398, "sum_logprob": -26.34702491760254}
+{"sentence": "The person washes his hands and stands up.", "score": -14.162019126104918, "sum_logprob": -22.445287704467773}
+{"sentence": "The man spray painted graffiti on the wall.", "score": -15.067858733151368, "sum_logprob": -23.38298988342285}
+{"sentence": "A man spray paints graffiti on a wall.", "score": -13.459390859829238, "sum_logprob": -20.88689613342285}
+{"sentence": "The boy spray painted graffiti on the wall.", "score": -15.609269025211201, "sum_logprob": -24.223175048828125}
+{"sentence": "The girl spray painted graffiti on the wall.", "score": -15.75510967964001, "sum_logprob": -24.44949722290039}
+{"sentence": "The woman spray painted graffiti on the wall.", "score": -15.748266139686027, "sum_logprob": -24.43887710571289}
+{"sentence": "A person spray painted graffiti on the wall.", "score": -17.38201381361403, "sum_logprob": -26.974201202392578}
+{"sentence": "The people spray graffiti on the walls.", "score": -16.13628375411996, "sum_logprob": -24.458032608032227}
+{"sentence": "The child graffiti was spray painted on the wall.", "score": -17.646941406843744, "sum_logprob": -27.968517303466797}
+{"sentence": "The kids spray graffiti on the walls.", "score": -15.17185189665639, "sum_logprob": -22.996227264404297}
+{"sentence": "The men spray graffiti on the wall.", "score": -14.145561813971316, "sum_logprob": -21.440662384033203}
+{"sentence": "The boys spray paint graffiti on the wall.", "score": -14.774601738550036, "sum_logprob": -22.927900314331055}
+{"sentence": "A woman walks past graffiti spray painted on a wall.", "score": -13.178046470008423, "sum_logprob": -21.28774070739746}
+{"sentence": "A boy spray paints graffiti on a wall.", "score": -13.674211398029119, "sum_logprob": -21.220264434814453}
+{"sentence": "A girl spray paints graffiti on a wall.", "score": -14.313229399400281, "sum_logprob": -22.21192169189453}
+{"sentence": "The person spray painted the graffiti on the wall.", "score": -16.140996002843206, "sum_logprob": -25.581754684448242}
+{"sentence": "The man in the street side car.", "score": -18.68644404865809, "sum_logprob": -28.323352813720703}
+{"sentence": "A man carjacked a side street.", "score": -18.33673434238818, "sum_logprob": -28.45578002929687}
+{"sentence": "The boy carves his name into the side of the street.", "score": -16.7053042342313, "sum_logprob": -27.90249633789062}
+{"sentence": "The girl side of the street was filled with cars.", "score": -17.488644885165613, "sum_logprob": -28.251056671142578}
+{"sentence": "The woman in the car side of the street.", "score": -17.34063306649173, "sum_logprob": -27.483051300048828}
+{"sentence": "A person side by side with a street car.", "score": -18.8685631979111, "sum_logprob": -29.904657363891605}
+{"sentence": "The people on the side of the street, the people in the car.", "score": -18.404665763865566, "sum_logprob": -31.633422851562496}
+{"sentence": "The child side of the street car.", "score": -19.44393895791488, "sum_logprob": -29.471500396728512}
+{"sentence": "The kids in the car side of the street.", "score": -17.19422787547955, "sum_logprob": -27.251014709472656}
+{"sentence": "The men in the car side of the street.", "score": -16.621765695271293, "sum_logprob": -26.34372329711914}
+{"sentence": "The boys in the car side of the street.", "score": -16.93055435767335, "sum_logprob": -26.833120346069336}
+{"sentence": "A woman walks side by side with her car in the street.", "score": -17.317242117268613, "sum_logprob": -28.924602508544922}
+{"sentence": "A boy carves his name into the side of a street.", "score": -15.525045820204143, "sum_logprob": -25.931137084960938}
+{"sentence": "A girl in the street, a car on the side of the road.", "score": -15.760374659186423, "sum_logprob": -27.088489532470703}
+{"sentence": "The person in the car side of the street.", "score": -17.26916585400173, "sum_logprob": -27.369783401489258}
+{"sentence": "The dog walker was riding his bike.", "score": -13.634674222519116, "sum_logprob": -21.15890884399414}
+{"sentence": "A dog walker riding a horse.", "score": -11.394683489163727, "sum_logprob": -17.27111053466797}
+{"sentence": "The dogs were riding on a walker.", "score": -15.45437493771827, "sum_logprob": -23.982803344726562}
+{"sentence": "The man was riding a dog walker.", "score": -16.97905492271373, "sum_logprob": -26.3488712310791}
+{"sentence": "A man rides a dog walker.", "score": -14.446477157442091, "sum_logprob": -21.896764755249023}
+{"sentence": "The boy was riding a dog walker.", "score": -16.69733534002835, "sum_logprob": -25.911685943603512}
+{"sentence": "The girl was riding on a dog walker.", "score": -15.9676875612591, "sum_logprob": -25.307079315185547}
+{"sentence": "The woman was riding a dog walker.", "score": -16.09592485221896, "sum_logprob": -24.978389739990234}
+{"sentence": "A person riding a bicycle or walking a dog.", "score": -13.420200652596078, "sum_logprob": -21.26958465576172}
+{"sentence": "The people walking the dog, riding the bike.", "score": -19.032324625995447, "sum_logprob": -30.16420173645019}
+{"sentence": "The child was riding on a dog walker.", "score": -16.202783821714327, "sum_logprob": -25.6796817779541}
+{"sentence": "The kids were riding bikes and walking dogs.", "score": -15.256416203510609, "sum_logprob": -23.675601959228516}
+{"sentence": "The men were riding in a dog walker.", "score": -17.66401483184325, "sum_logprob": -27.995576858520508}
+{"sentence": "The boys were riding in a dog walker.", "score": -17.021281674039578, "sum_logprob": -26.976913452148434}
+{"sentence": "A woman rides a dog walker.", "score": -14.179331721248902, "sum_logprob": -21.49184799194336}
+{"sentence": "A boy walks past a mural showing US President Donald Trump (R) riding a dog during a visit to a hospital in Accra, Ghana.", "score": -13.549892862665402, "sum_logprob": -26.571462631225586}
+{"sentence": "A girl rides a dog walker.", "score": -15.215354121078292, "sum_logprob": -23.062164306640625}
+{"sentence": "The person walking the dog was riding a bicycle.", "score": -15.013389368918752, "sum_logprob": -23.794618606567383}
+{"sentence": "The man was riding a wooded trail.", "score": -16.38443512424445, "sum_logprob": -25.42611312866211}
+{"sentence": "A man rides a wooded trail.", "score": -15.760540054472619, "sum_logprob": -23.888511657714844}
+{"sentence": "The boy was riding a wooded trail.", "score": -16.27998018772701, "sum_logprob": -25.264015197753906}
+{"sentence": "The girl was riding on a trail in the woods.", "score": -15.815564536292094, "sum_logprob": -25.548372268676758}
+{"sentence": "The woman was riding a wooded trail.", "score": -16.281038429088426, "sum_logprob": -25.265657424926758}
+{"sentence": "A person riding a wooded trail.", "score": -17.478092689515503, "sum_logprob": -26.49183464050293}
+{"sentence": "The people on the trail ride to the woods.", "score": -20.20538457554733, "sum_logprob": -32.02337646484375}
+{"sentence": "The child was riding on a trail in the woods.", "score": -16.286443048973215, "sum_logprob": -26.309026718139652}
+{"sentence": "The kids ride the wooded trails.", "score": -16.650080636719384, "sum_logprob": -25.23680305480957}
+{"sentence": "The men were riding trails in the woods.", "score": -17.280448453682762, "sum_logprob": -26.816587448120117}
+{"sentence": "The boys were riding trails in the woods.", "score": -16.116011772741217, "sum_logprob": -25.00956153869629}
+{"sentence": "A woman riding a wooded trail.", "score": -15.888942715032698, "sum_logprob": -24.083133697509766}
+{"sentence": "A boy rides a wooded trail.", "score": -15.365558229081511, "sum_logprob": -23.289831161499023}
+{"sentence": "A girl riding a wooded trail.", "score": -15.409567580967746, "sum_logprob": -23.356536865234375}
+{"sentence": "The person riding the wooded trail.", "score": -17.81832865799383, "sum_logprob": -27.007535934448242}
+{"sentence": "The man with the knife cut the wood.", "score": -17.331870871893017, "sum_logprob": -26.896387100219727}
+{"sentence": "A man cuts a knife in the woods.", "score": -16.34566612626161, "sum_logprob": -25.3659496307373}
+{"sentence": "The boy was cut in half by the wood knife.", "score": -17.60873837617947, "sum_logprob": -28.445055007934567}
+{"sentence": "The girl cut off the knife with wood.", "score": -18.223204099926356, "sum_logprob": -28.881832122802738}
+{"sentence": "The woman cut off the knife with a wood chisel.", "score": -18.570118466456588, "sum_logprob": -31.01725387573242}
+{"sentence": "A person with a woodworking knife or cutting board.", "score": -17.900131666875232, "sum_logprob": -29.42337417602539}
+{"sentence": "The people in the wood cut the knife.", "score": -19.991216408469235, "sum_logprob": -31.683942794799805}
+{"sentence": "The child was cut in half by the wood knife.", "score": -17.469053370011004, "sum_logprob": -28.714788436889645}
+{"sentence": "The kids had knives and cut wood.", "score": -17.46098369249034, "sum_logprob": -27.09675025939941}
+{"sentence": "The men cut the wood with a knife.", "score": -14.472573257913776, "sum_logprob": -22.937482833862305}
+{"sentence": "The boys cut the knife out of the wood.", "score": -16.364790559038248, "sum_logprob": -26.435588836669922}
+{"sentence": "A woman cuts a piece of wood with a knife.", "score": -12.657027280923584, "sum_logprob": -20.805011749267578}
+{"sentence": "A boy cuts wood with a knife.", "score": -14.087790804148954, "sum_logprob": -21.862075805664062}
+{"sentence": "A girl cuts herself with a knife in the woods.", "score": -13.257136801176339, "sum_logprob": -21.79144287109375}
+{"sentence": "The person cutting the wood is a knife.", "score": -18.160505265144568, "sum_logprob": -28.782461166381836}
+{"sentence": "The cat clip is held in place by two screws.", "score": -15.291210024019776, "sum_logprob": -25.13495445251465}
+{"sentence": "A cat clip is a device used to hold a cat in place.", "score": -14.660912478594616, "sum_logprob": -25.19876480102539}
+{"sentence": "The man in the clip is holding a cat.", "score": -16.750646880403522, "sum_logprob": -27.05889892578125}
+{"sentence": "A man holds a clip of a cat.", "score": -18.334039956386807, "sum_logprob": -29.057495117187504}
+{"sentence": "The boy was holding a cat clip.", "score": -17.285865027062286, "sum_logprob": -26.82499313354492}
+{"sentence": "The girl was holding a cat clip.", "score": -16.5375027928488, "sum_logprob": -25.663650512695316}
+{"sentence": "The woman in the clip is holding a cat.", "score": -16.415948159348513, "sum_logprob": -26.51822853088379}
+{"sentence": "A person holds a catfish clip.", "score": -16.989627503655566, "sum_logprob": -26.365278244018555}
+{"sentence": "The people holding the cat in the clip.", "score": -21.554200795431395, "sum_logprob": -34.16110610961914}
+{"sentence": "The child is held in a catheter clip.", "score": -19.66296392344095, "sum_logprob": -31.763439178466797}
+{"sentence": "The kids were holding clips of cats.", "score": -18.784751454321707, "sum_logprob": -29.15103340148926}
+{"sentence": "The men in the clip are holding a cat.", "score": -18.528568016877138, "sum_logprob": -29.93094253540039}
+{"sentence": "The boys in the clip are holding a cat.", "score": -19.001820982768127, "sum_logprob": -30.695432662963867}
+{"sentence": "A woman holds a placard during a demonstration against US President Donald Trump outside the White House in Washington DC Getty Images 17/30 A man clips a cat", "score": -17.442121505737305, "sum_logprob": -34.88424301147461}
+{"sentence": "A boy holds a catfish clip.", "score": -15.91201823588017, "sum_logprob": -24.692995071411133}
+{"sentence": "A girl in the clip is holding a cat.", "score": -16.861938010065035, "sum_logprob": -27.23867797851562}
+{"sentence": "The person in the clip is holding a cat.", "score": -16.572729372956612, "sum_logprob": -26.771492004394528}
+{"sentence": "The swimmer was found in the lane.", "score": -15.253156672627354, "sum_logprob": -23.670543670654297}
+{"sentence": "A swimmer swims in a lane.", "score": -11.974176763469261, "sum_logprob": -18.582073211669922}
+{"sentence": "The man in the lane next to me was a swimmer.", "score": -17.96769614549651, "sum_logprob": -30.45916557312012}
+{"sentence": "A man swims in a lane of swimmers.", "score": -19.917161478212726, "sum_logprob": -32.174068450927734}
+{"sentence": "The boy had been swimming in the swimmers lane.", "score": -19.644290637755194, "sum_logprob": -31.733274459838867}
+{"sentence": "The girl in the lane next to me was a swimmer.", "score": -18.868984571821322, "sum_logprob": -31.516443252563477}
+{"sentence": "The woman in the lane next to me was a swimmer.", "score": -18.453589701934547, "sum_logprob": -30.82261848449707}
+{"sentence": "A person may not swim in a swimmers lane.", "score": -20.103731393974854, "sum_logprob": -32.4754524230957}
+{"sentence": "The people in the swim lanes are swimmers.", "score": -20.030529693480783, "sum_logprob": -31.74625015258789}
+{"sentence": "The child in the lane next to the swimmer was not injured.", "score": -19.862347406010738, "sum_logprob": -33.67101287841797}
+{"sentence": "The kids were swimming in the swimmers lane.", "score": -18.300032707240685, "sum_logprob": -29.003597259521484}
+{"sentence": "The men in the swimmer lane.", "score": -20.507925095988515, "sum_logprob": -31.08420181274414}
+{"sentence": "The boys were swimming in the swimmers lane.", "score": -18.750527066426187, "sum_logprob": -29.71758270263672}
+{"sentence": "A woman swims in a lane of swimmers.", "score": -19.238011185026874, "sum_logprob": -31.07697296142578}
+{"sentence": "A boy swims in a lane of swimmers.", "score": -18.384078229382776, "sum_logprob": -29.697534561157227}
+{"sentence": "A girl swimmer in the lane.", "score": -18.486931547199625, "sum_logprob": -28.02094841003418}
+{"sentence": "The person in the lane next to the swimmer.", "score": -19.52002207635342, "sum_logprob": -31.53253173828125}
+{"sentence": "The man blows a pile of blowers.", "score": -23.745834890929626, "sum_logprob": -36.84986877441406}
+{"sentence": "A man blows into a pile of blowers.", "score": -20.198221607647348, "sum_logprob": -32.01202392578125}
+{"sentence": "The boy blows a pile of blowers.", "score": -22.880613804032105, "sum_logprob": -35.507179260253906}
+{"sentence": "The girl blows a pile of blowers.", "score": -22.959973302550193, "sum_logprob": -35.630332946777344}
+{"sentence": "The woman blows a pile of blowers.", "score": -24.0643397299517, "sum_logprob": -37.344139099121094}
+{"sentence": "A person blowing into a blower pile.", "score": -22.991108459539106, "sum_logprob": -35.67864990234375}
+{"sentence": "The people pile out of the car, blower blowing.", "score": -23.357044519999963, "sum_logprob": -38.393184661865234}
+{"sentence": "The child blows a pile of blowers.", "score": -22.856064079348048, "sum_logprob": -35.46908187866211}
+{"sentence": "The kids pile out of the car, blower blowing.", "score": -20.295909730496874, "sum_logprob": -33.3614387512207}
+{"sentence": "The men pile into the back of the truck, blower blowing.", "score": -23.407137928858482, "sum_logprob": -39.680206298828125}
+{"sentence": "The boys pile into the back of the van, and the blower blows.", "score": -21.98404821307308, "sum_logprob": -38.276451110839844}
+{"sentence": "A woman blows on a pile of blowers.", "score": -20.409493057027984, "sum_logprob": -32.346866607666016}
+{"sentence": "A boy blows a pile of blowers.", "score": -20.365005703426224, "sum_logprob": -31.603343963623043}
+{"sentence": "A girl blows a pile of blowers.", "score": -21.149569379055766, "sum_logprob": -32.820865631103516}
+{"sentence": "The person in charge of the blower is responsible for blowing up the pile.", "score": -22.90757418945739, "sum_logprob": -39.884403228759766}
+{"sentence": "The man in the painting is standing in front of a wall.", "score": -16.5916599977036, "sum_logprob": -27.712678909301758}
+{"sentence": "A man stands in front of a wall painting.", "score": -13.731783738967183, "sum_logprob": -21.763410568237305}
+{"sentence": "The boy stood up and walked over to the wall painting.", "score": -17.100378229317958, "sum_logprob": -28.10877799987793}
+{"sentence": "The girl was standing in front of the wall painting.", "score": -15.887918647802534, "sum_logprob": -25.665252685546875}
+{"sentence": "The woman in the painting stands in front of a wall.", "score": -17.22767700116041, "sum_logprob": -28.318025588989254}
+{"sentence": "A person standing on a wall or painting a wall.", "score": -19.076122122296006, "sum_logprob": -30.815458297729492}
+{"sentence": "The people in the painting are standing on a wall.", "score": -18.714009152296835, "sum_logprob": -30.23050308227539}
+{"sentence": "The child was standing in front of a wall painting.", "score": -16.625861158133564, "sum_logprob": -26.85732078552246}
+{"sentence": "The kids were standing in front of a wall painting.", "score": -16.58119994845517, "sum_logprob": -26.785175323486328}
+{"sentence": "The men stood in the middle of the room, staring at the painting on the wall.", "score": -16.19682252889374, "sum_logprob": -28.87249565124512}
+{"sentence": "The boys were standing in front of a wall painting.", "score": -15.719025479432215, "sum_logprob": -25.392423629760742}
+{"sentence": "A woman stands in front of a wall painting.", "score": -13.945490982539615, "sum_logprob": -22.102113723754883}
+{"sentence": "A boy stands in front of a wall painting.", "score": -13.087014334240333, "sum_logprob": -20.741519927978516}
+{"sentence": "A girl stands in front of a wall painting.", "score": -13.245373450008985, "sum_logprob": -20.992502212524414}
+{"sentence": "The person in the painting is standing in front of a wall.", "score": -15.858399506707885, "sum_logprob": -26.487930297851562}
+{"sentence": "The man throws the ball into the air and it falls to the ground.", "score": -15.665119970669064, "sum_logprob": -26.924768447875977}
+{"sentence": "A man falls to the ground after being hit by a thrown ball.", "score": -16.002224413537274, "sum_logprob": -27.127262115478516}
+{"sentence": "The boy falls to the ground and throws his ball.", "score": -17.10359146195186, "sum_logprob": -27.629043579101566}
+{"sentence": "The girl was thrown to the ground, falling to the floor in a ball.", "score": -17.90004398203048, "sum_logprob": -31.16578674316406}
+{"sentence": "The woman was thrown to the ground, falling to the floor in a ball.", "score": -18.08765659215773, "sum_logprob": -31.49243927001953}
+{"sentence": "A person throwing a ball falls to the ground.", "score": -15.407264751156927, "sum_logprob": -24.418869018554688}
+{"sentence": "The people throwing the ball are falling down.", "score": -19.33871806896952, "sum_logprob": -30.010704040527344}
+{"sentence": "The child falls to the ground and throws up a ball.", "score": -16.581403603462665, "sum_logprob": -27.255712509155273}
+{"sentence": "The kids were throwing balls and falling down.", "score": -16.239971043944315, "sum_logprob": -25.20192718505859}
+{"sentence": "The men were throwing balls and falling down.", "score": -18.636094968349333, "sum_logprob": -28.92034149169922}
+{"sentence": "The boys throw a ball around and fall in love.", "score": -17.096289811703315, "sum_logprob": -27.61724853515625}
+{"sentence": "A woman falls to the ground after being hit by a thrown ball.", "score": -16.206035793167338, "sum_logprob": -27.472766876220707}
+{"sentence": "A boy throws a ball at a falling tree in Hong Kong.", "score": -13.146476140581118, "sum_logprob": -21.95826530456543}
+{"sentence": "A girl throws a ball at a fallen tree.", "score": -15.244229006816479, "sum_logprob": -24.16047477722168}
+{"sentence": "The person throwing the ball falls to the ground.", "score": -14.477316076545133, "sum_logprob": -22.94499969482422}
+{"sentence": "The man in the boat stood up and walked to the side of the boat.", "score": -15.954194698554543, "sum_logprob": -27.77786636352539}
+{"sentence": "A man stands on the side of a boat.", "score": -14.499056502471408, "sum_logprob": -22.979455947875977}
+{"sentence": "The boy stood up and walked to the side of the boat.", "score": -13.926471466373533, "sum_logprob": -23.26107406616211}
+{"sentence": "The girl stood up and walked over to the side of the boat.", "score": -14.10557941453486, "sum_logprob": -23.91203498840332}
+{"sentence": "The woman stood side by side with the boat.", "score": -18.210791658575477, "sum_logprob": -28.862159729003906}
+{"sentence": "A person standing on the side of a boat.", "score": -15.826848797518702, "sum_logprob": -25.566600799560547}
+{"sentence": "The people standing on the side of the boat.", "score": -16.426774296335722, "sum_logprob": -26.535717010498043}
+{"sentence": "The child was standing on the side of the boat.", "score": -14.801600701967528, "sum_logprob": -24.330158233642578}
+{"sentence": "The kids were standing side by side in the boat.", "score": -17.21496522563734, "sum_logprob": -28.297130584716797}
+{"sentence": "The men stood side by side in the boat.", "score": -13.614472386861232, "sum_logprob": -21.992740631103516}
+{"sentence": "The boys stood side by side in the boat.", "score": -14.605961868314788, "sum_logprob": -23.59438705444336}
+{"sentence": "A woman stands on the side of a boat.", "score": -15.098379304643053, "sum_logprob": -24.389835357666016}
+{"sentence": "A boy stands in front of a mural depicting Russian President Vladimir Putin, left, and Republican presidential candidate Donald Trump, on the sides of a boat, in", "score": -15.765131950378418, "sum_logprob": -31.530263900756836}
+{"sentence": "A girl standing on the side of the boat.", "score": -13.838527019706245, "sum_logprob": -22.354677200317383}
+{"sentence": "The person standing in front of the side of the boat.", "score": -17.047909878696313, "sum_logprob": -28.4747428894043}
+{"sentence": "The man jumps up and falls to the ground.", "score": -12.05835658767579, "sum_logprob": -19.479000091552734}
+{"sentence": "A man falls to the ground after jumping out of a moving car.", "score": -15.078860360248669, "sum_logprob": -25.91712188720703}
+{"sentence": "The boy jumps up and falls to the ground.", "score": -12.563697142045829, "sum_logprob": -20.295324325561523}
+{"sentence": "The girl jumps up and falls to the ground.", "score": -12.66564159263757, "sum_logprob": -20.460004806518555}
+{"sentence": "The woman jumps out of the car and falls to the ground.", "score": -12.764345853066029, "sum_logprob": -21.638351440429688}
+{"sentence": "A person jumping out of a window falls to the ground.", "score": -14.575049478162418, "sum_logprob": -24.344379425048828}
+{"sentence": "The people jumping out of the ground and falling to the ground.", "score": -17.98286183459487, "sum_logprob": -30.484874725341797}
+{"sentence": "The child jumps up and falls to the ground.", "score": -13.276948172752414, "sum_logprob": -21.447505950927734}
+{"sentence": "The kids in the ground jump up and fall down.", "score": -20.19688668169835, "sum_logprob": -33.19866943359375}
+{"sentence": "The men jump out of the car and fall to the ground.", "score": -13.901222344630096, "sum_logprob": -23.56560516357422}
+{"sentence": "The boys jump out of the car and fall to the ground.", "score": -13.317292120719467, "sum_logprob": -22.575716018676758}
+{"sentence": "A woman jumps out of a window and falls to the ground.", "score": -11.743843156971407, "sum_logprob": -19.908376693725586}
+{"sentence": "A boy jumps out of the ground and falls to the ground.", "score": -14.489720614964002, "sum_logprob": -24.5632381439209}
+{"sentence": "A girl jumps out of the ground and falls to the ground.", "score": -15.13715005956194, "sum_logprob": -25.6607723236084}
+{"sentence": "The person jumping out of the window falls to the ground.", "score": -14.709499771719777, "sum_logprob": -24.56894874572754}
+{"sentence": "The gymnast flips over and lands on the mat.", "score": -13.19971645497148, "sum_logprob": -21.32274627685547}
+{"sentence": "A gymnast flips over a mat during a training session.", "score": -15.002834316439241, "sum_logprob": -24.66093635559082}
+{"sentence": "The man on the flip side of the mat was a gymnast.", "score": -23.031162581244196, "sum_logprob": -39.5853157043457}
+{"sentence": "A man in a matador costume flips a gymnast to the ground.", "score": -24.054914144147535, "sum_logprob": -41.88203811645508}
+{"sentence": "The boy flips over the mat, and the gymnast falls to the ground.", "score": -24.76819539169985, "sum_logprob": -43.64999008178711}
+{"sentence": "The girl matures into a gymnast and flips.", "score": -24.681192638498636, "sum_logprob": -40.56975555419922}
+{"sentence": "The woman in the flip flops is a gymnast and matador.", "score": -25.19482452554629, "sum_logprob": -43.866737365722656}
+{"sentence": "A person is guilty of an offence if he or she flips a gymnast on the mat.", "score": -25.921351958900303, "sum_logprob": -46.7098388671875}
+{"sentence": "The people on the flip side of the mat are the gymnasts.", "score": -22.44933560789439, "sum_logprob": -38.056522369384766}
+{"sentence": "The child flips over the mat, and the gymnast falls to the ground.", "score": -24.810427912252052, "sum_logprob": -43.19746398925781}
+{"sentence": "The kids flip the mat over and start playing with the gymnast.", "score": -25.392442408183012, "sum_logprob": -43.04573059082031}
+{"sentence": "The men on the flip side of the mat are the gymnasts.", "score": -23.26901865722582, "sum_logprob": -39.44606399536133}
+{"sentence": "The boys flip the mat over to reveal a gymnast.", "score": -24.680793473662494, "sum_logprob": -40.56909942626953}
+{"sentence": "A woman wearing flip flops and a gymnast mat.", "score": -23.438678370442606, "sum_logprob": -38.52737045288086}
+{"sentence": "A boy in a matador costume flips over a gymnast.", "score": -23.04727818450989, "sum_logprob": -38.49535369873047}
+{"sentence": "A girl with a flip flop and a gymnast mat.", "score": -23.52664425718489, "sum_logprob": -39.29602813720703}
+{"sentence": "The person on the flip side of the mat is the gymnast.", "score": -22.294519338990437, "sum_logprob": -37.79407501220703}
+{"sentence": "The pitcher will pitch the ball to the catcher.", "score": -12.494618115003965, "sum_logprob": -19.802635192871094}
+{"sentence": "A pitcher has to pitch in a ball park.", "score": -12.921187776297723, "sum_logprob": -20.478702545166016}
+{"sentence": "The man was pitching balls to the pitcher.", "score": -18.953544024178075, "sum_logprob": -29.412973403930664}
+{"sentence": "A man pitches balls to a pitcher.", "score": -18.344282757548417, "sum_logprob": -27.804733276367188}
+{"sentence": "The boy had been pitching balls to the pitcher.", "score": -18.865342750649617, "sum_logprob": -29.8995532989502}
+{"sentence": "The girl had been pitching pitchers in a ball field.", "score": -22.396147304478433, "sum_logprob": -36.17860794067383}
+{"sentence": "The woman pitches the ball to the pitcher.", "score": -17.681560031265743, "sum_logprob": -27.439050674438473}
+{"sentence": "A person may not pitch a ball at a pitcher.", "score": -18.09157889058569, "sum_logprob": -29.225032806396488}
+{"sentence": "The people of the pitcher, the pitch, the ball.", "score": -21.933300133432258, "sum_logprob": -36.05290222167969}
+{"sentence": "The child pitches a ball to the pitcher.", "score": -17.197077224846822, "sum_logprob": -26.68720817565918}
+{"sentence": "The kids were pitching balls to the pitcher.", "score": -17.675371593106927, "sum_logprob": -27.42944717407227}
+{"sentence": "The men were pitching pitchers and balls.", "score": -20.400450566593047, "sum_logprob": -30.92130088806152}
+{"sentence": "The boys pitch balls to the pitcher.", "score": -17.567949887643785, "sum_logprob": -26.628032684326172}
+{"sentence": "A woman pitches a ball at a pitcher.", "score": -19.616275973083745, "sum_logprob": -30.441431045532227}
+{"sentence": "A boy pitches a ball to a pitcher.", "score": -15.27520766945106, "sum_logprob": -23.704763412475586}
+{"sentence": "A girl pitches a ball to a pitcher.", "score": -17.711312468705767, "sum_logprob": -27.48522186279297}
+{"sentence": "The person pitching the ball to the pitcher.", "score": -18.247960060097196, "sum_logprob": -28.318016052246097}
+{"sentence": "The man riding pops wheelies on his bike.", "score": -21.962167439622007, "sum_logprob": -34.80768966674805}
+{"sentence": "A man pops a wheelie bin into his ride.", "score": -17.170652349325135, "sum_logprob": -27.73737335205078}
+{"sentence": "The boy pops up riding a wheelie bin.", "score": -21.431080063916674, "sum_logprob": -33.965972900390625}
+{"sentence": "The girl was riding on a wheelie pop.", "score": -20.631039610563537, "sum_logprob": -32.697994232177734}
+{"sentence": "The woman said she was riding in a wheelie bin when she heard a loud pop.", "score": -20.30530209994571, "sum_logprob": -36.19628143310547}
+{"sentence": "A person riding a bicycle or popping wheelies.", "score": -19.08257250884625, "sum_logprob": -30.243839263916016}
+{"sentence": "The people of the United States are popping wheelies and riding their bikes.", "score": -22.847597806662286, "sum_logprob": -39.26980972290039}
+{"sentence": "The child was riding in the back seat of the car, popping wheelies.", "score": -21.028807971459393, "sum_logprob": -36.61328125}
+{"sentence": "The kids were riding bikes and popping wheelies.", "score": -15.723461886407152, "sum_logprob": -24.920007705688477}
+{"sentence": "The men were riding in a wheelie bin when they were hit by the pop.", "score": -23.033222134937272, "sum_logprob": -40.592376708984375}
+{"sentence": "The boys pop out of the wheelie bin and ride off.", "score": -21.578098777668565, "sum_logprob": -36.04141616821289}
+{"sentence": "A woman riding a bicycle pops a wheelie.", "score": -15.821118700281463, "sum_logprob": -25.074783325195312}
+{"sentence": "A boy pops a wheelie bin on the ride.", "score": -16.154836234613047, "sum_logprob": -26.0964298248291}
+{"sentence": "A girl pops a wheelie bin on the ride.", "score": -17.0489011097749, "sum_logprob": -27.540697097778324}
+{"sentence": "The person riding the bike is popping wheelies.", "score": -18.507590292552212, "sum_logprob": -29.33255386352539}
+{"sentence": "The man on the street was listening to music.", "score": -14.308713146467904, "sum_logprob": -22.67778205871582}
+{"sentence": "A man listens to music on a street.", "score": -13.12870948518861, "sum_logprob": -20.373729705810547}
+{"sentence": "The boy was listening to street music.", "score": -16.02360330333504, "sum_logprob": -24.28724098205566}
+{"sentence": "The girl in the street is listening to music.", "score": -15.65991702231863, "sum_logprob": -24.81929588317871}
+{"sentence": "The woman in the street was listening to music.", "score": -15.358714944197738, "sum_logprob": -24.341922760009766}
+{"sentence": "A person can listen to music on the street.", "score": -16.707331390447496, "sum_logprob": -26.47933578491211}
+{"sentence": "The people on the street listen to music.", "score": -14.959533410981072, "sum_logprob": -23.214885711669922}
+{"sentence": "The child was listening to music on the street.", "score": -15.900164072863227, "sum_logprob": -25.200061798095703}
+{"sentence": "The kids in the street listen to music.", "score": -14.78571265830291, "sum_logprob": -22.94514274597168}
+{"sentence": "The men had been listening to music on the street.", "score": -14.614604830769403, "sum_logprob": -23.608348846435547}
+{"sentence": "The boys were listening to music on the street.", "score": -14.460324486528355, "sum_logprob": -22.91806983947754}
+{"sentence": "A woman listens to music on a street.", "score": -14.043833842418671, "sum_logprob": -21.793861389160156}
+{"sentence": "A boy listens to music on a street.", "score": -12.211779603498707, "sum_logprob": -18.950796127319336}
+{"sentence": "A girl listens to music on a street.", "score": -13.114208751643876, "sum_logprob": -20.351226806640625}
+{"sentence": "The person in the street is listening to the music.", "score": -15.118824869925039, "sum_logprob": -24.422863006591797}
+{"sentence": "The man was wearing grass walking shoes.", "score": -17.346726542160123, "sum_logprob": -26.292720794677734}
+{"sentence": "A man wearing a mask walks on the grass.", "score": -15.349514525918945, "sum_logprob": -24.327341079711914}
+{"sentence": "The boy was wearing grass walking shoes.", "score": -16.918495779144617, "sum_logprob": -25.643644332885742}
+{"sentence": "The girl was wearing grass walking shoes.", "score": -17.56969526182004, "sum_logprob": -26.630678176879883}
+{"sentence": "The woman was walking on the grass wearing a white shirt and blue jeans.", "score": -17.713638979752762, "sum_logprob": -30.445705413818356}
+{"sentence": "A person walking down the street wearing a grass skirt.", "score": -18.234455797381553, "sum_logprob": -29.455835342407227}
+{"sentence": "The people walking in the grass are wearing the same clothes.", "score": -19.63618772683725, "sum_logprob": -32.27701950073242}
+{"sentence": "The child was wearing grass walking shoes.", "score": -17.525838174011184, "sum_logprob": -26.564203262329098}
+{"sentence": "The kids were wearing grass skirts and they were walking around.", "score": -19.193924692020772, "sum_logprob": -31.550048828125}
+{"sentence": "The men were wearing grass walking shoes.", "score": -18.668848109864584, "sum_logprob": -28.296682357788086}
+{"sentence": "The boys were wearing grass walking shoes.", "score": -18.253620195705064, "sum_logprob": -27.66731452941894}
+{"sentence": "A woman wearing a grass skirt walks.", "score": -17.06693060373629, "sum_logprob": -25.868629455566406}
+{"sentence": "A boy walks past a mural showing US President Donald Trump (R) blowing marijuana smoke into the mouth of Russian President Vladimir Putin wearing a baseball uniform at the grass", "score": -15.13849925994873, "sum_logprob": -30.27699851989746}
+{"sentence": "A girl walks into a bar wearing nothing but a grass skirt.", "score": -15.311389768049956, "sum_logprob": -25.57427215576172}
+{"sentence": "The person walking in the grass is wearing a white shirt.", "score": -18.480955955800425, "sum_logprob": -30.37810516357422}
+{"sentence": "The man was holding a hand watch.", "score": -16.811919733643776, "sum_logprob": -25.482105255126953}
+{"sentence": "A man holds hands with his son as they watch a fireworks display.", "score": -16.419163287177874, "sum_logprob": -27.834064483642578}
+{"sentence": "The boy held his watch in his hand.", "score": -13.177244784980779, "sum_logprob": -20.44904899597168}
+{"sentence": "The girl held her watch in her hand.", "score": -13.345596113665547, "sum_logprob": -20.710304260253906}
+{"sentence": "The woman watching held her hands to her face.", "score": -16.608893533870383, "sum_logprob": -26.323322296142578}
+{"sentence": "A person holds hands with a person watching.", "score": -19.06275428685966, "sum_logprob": -29.582450866699215}
+{"sentence": "The people watching hold their hands up.", "score": -16.19767637844369, "sum_logprob": -24.55108642578125}
+{"sentence": "The child is held in the hands of the watchman.", "score": -16.37329251810777, "sum_logprob": -26.91362953186035}
+{"sentence": "The kids are holding hands and watching.", "score": -14.346824723129256, "sum_logprob": -21.74571990966797}
+{"sentence": "The men hold hands and watch as the woman walks away.", "score": -16.533952883566272, "sum_logprob": -27.17771530151367}
+{"sentence": "The boys held their hands over their heads, watching.", "score": -15.789732468999459, "sum_logprob": -25.506643295288086}
+{"sentence": "A woman holds her hand over her mouth as she watches.", "score": -15.260452284741815, "sum_logprob": -25.084396362304688}
+{"sentence": "A boy holds hands with his father as they watch the sun rise.", "score": -16.571266856592533, "sum_logprob": -28.0919132232666}
+{"sentence": "A girl holding hands with a boy watching a movie.", "score": -16.611495184884202, "sum_logprob": -26.83411407470703}
+{"sentence": "The person holding the hand of the person watching.", "score": -16.99365514663501, "sum_logprob": -26.933128356933594}
+{"sentence": "The man hit the floor in a ball of blood.", "score": -14.677778746503252, "sum_logprob": -23.710399627685547}
+{"sentence": "A man hits a ball in the floor.", "score": -17.966036449460603, "sum_logprob": -27.88051414489746}
+{"sentence": "The boy was hit in the head by the ball and fell to the floor.", "score": -13.540041291215136, "sum_logprob": -23.574581146240234}
+{"sentence": "The girl was hit in the head with the ball and fell to the floor.", "score": -14.537525591404833, "sum_logprob": -25.311302185058594}
+{"sentence": "The woman hit the floor in a ball of blood.", "score": -14.817029623558936, "sum_logprob": -23.935344696044922}
+{"sentence": "A person hits a floor with a ball.", "score": -18.86245414754921, "sum_logprob": -29.271615982055664}
+{"sentence": "The people hit the floor in a ball of panic.", "score": -17.164971844903118, "sum_logprob": -27.72819709777832}
+{"sentence": "The child hit the floor, balled up in his hands.", "score": -17.293759364427896, "sum_logprob": -28.88537979125977}
+{"sentence": "The kids hit the floor, ball in hand.", "score": -15.753338875836752, "sum_logprob": -24.96735954284668}
+{"sentence": "The men hit the floor in a ball of blood.", "score": -15.31906884964713, "sum_logprob": -24.746335983276367}
+{"sentence": "The boys hit the floor in a ball of panic.", "score": -15.704925171012402, "sum_logprob": -25.369646072387695}
+{"sentence": "A woman hits a ball in the floor.", "score": -18.114283650446502, "sum_logprob": -28.11057090759277}
+{"sentence": "A boy hits a ball in the floor.", "score": -16.09800692058858, "sum_logprob": -24.981620788574222}
+{"sentence": "A girl hits a ball in the floor.", "score": -16.410795289724526, "sum_logprob": -25.46702003479004}
+{"sentence": "The person was hit in the head and floor by the ball.", "score": -19.032604454882833, "sum_logprob": -31.789733886718754}
+{"sentence": "The man in the kitchen rolls a doughnut.", "score": -16.81066370106514, "sum_logprob": -26.643106460571286}
+{"sentence": "A man rolls a doughnut on the kitchen floor.", "score": -15.896499031430634, "sum_logprob": -25.679113388061523}
+{"sentence": "The boy had been rolling dough in the kitchen.", "score": -18.947917858589353, "sum_logprob": -30.030426025390625}
+{"sentence": "The girl in the kitchen rolling dough.", "score": -18.876548895219877, "sum_logprob": -28.61149787902832}
+{"sentence": "The woman in the kitchen rolls a doughnut.", "score": -16.357106547305467, "sum_logprob": -25.924266815185543}
+{"sentence": "A person may not roll a doughnut in a kitchen.", "score": -19.894776918883576, "sum_logprob": -32.70207595825195}
+{"sentence": "The people in the kitchen are rolling in dough.", "score": -15.882255449657643, "sum_logprob": -25.17167854309082}
+{"sentence": "The child of a kitchen roll and a doughnut.", "score": -21.714569425116803, "sum_logprob": -35.07759094238281}
+{"sentence": "The kids in the kitchen rolling dough.", "score": -17.021150710057704, "sum_logprob": -25.799240112304688}
+{"sentence": "The men in the kitchen were rolling dough.", "score": -17.42675493096404, "sum_logprob": -27.04363250732422}
+{"sentence": "The boys in the kitchen were rolling dough.", "score": -17.035004057456046, "sum_logprob": -26.43569564819336}
+{"sentence": "A woman in the kitchen rolls a doughnut.", "score": -15.060334969525341, "sum_logprob": -23.869022369384766}
+{"sentence": "A boy rolls a doughnut on the kitchen floor.", "score": -15.240202997981333, "sum_logprob": -24.61893653869629}
+{"sentence": "A girl in the kitchen rolls a doughnut.", "score": -15.190377977814375, "sum_logprob": -24.07512664794922}
+{"sentence": "The person in the kitchen rolling the dough.", "score": -16.81116204237717, "sum_logprob": -26.08832740783691}
+{"sentence": "The man points to the head of his gun.", "score": -15.663453978410374, "sum_logprob": -24.824901580810547}
+{"sentence": "A man points a gun at the head of a woman.", "score": -12.440057985222444, "sum_logprob": -20.448368072509766}
+{"sentence": "The boy points to the head of the gun.", "score": -16.399080672711314, "sum_logprob": -25.99079132080078}
+{"sentence": "The girl points to the head of the gun.", "score": -16.65557076387185, "sum_logprob": -26.397300720214844}
+{"sentence": "The woman points to the head of the gun.", "score": -16.8182587095357, "sum_logprob": -26.655143737792965}
+{"sentence": "A person with a gun points it at a head.", "score": -18.846153199978975, "sum_logprob": -30.443967819213867}
+{"sentence": "The people pointing guns at the head of the government.", "score": -20.12659273810686, "sum_logprob": -32.51238250732422}
+{"sentence": "The child points to the head of the gun.", "score": -16.36117061696243, "sum_logprob": -25.93070793151855}
+{"sentence": "The kids are pointing guns at the head.", "score": -19.02685274195021, "sum_logprob": -29.526737213134762}
+{"sentence": "The men were pointing guns at the head of the woman.", "score": -16.634970596182615, "sum_logprob": -27.34376335144043}
+{"sentence": "The boys pointing guns at the head.", "score": -18.097060006256804, "sum_logprob": -27.430013656616207}
+{"sentence": "A woman in a headscarf points her gun.", "score": -16.181582188919325, "sum_logprob": -26.139635086059567}
+{"sentence": "A boy points a gun at the head of a man.", "score": -13.163290131255806, "sum_logprob": -21.637182235717773}
+{"sentence": "A girl with a gun in her hand, pointing it at her head.", "score": -15.714924022775486, "sum_logprob": -27.0103702545166}
+{"sentence": "The person pointing the gun at the head.", "score": -15.04984281924234, "sum_logprob": -23.355031967163086}
+{"sentence": "The man docks his boat in the water.", "score": -17.774642253129056, "sum_logprob": -27.583499908447262}
+{"sentence": "A man docks his boat in the water.", "score": -16.672225153020474, "sum_logprob": -25.872718811035156}
+{"sentence": "The boy docks his boat and walks to the water.", "score": -19.095219290976466, "sum_logprob": -30.846307754516605}
+{"sentence": "The girl docks her boat and walks to the water.", "score": -19.544986305202865, "sum_logprob": -31.5728588104248}
+{"sentence": "The woman docks her boat at a water park.", "score": -20.82544342585712, "sum_logprob": -33.006103515625}
+{"sentence": "A person may not dock a boat in a public waterway.", "score": -16.819323025462936, "sum_logprob": -28.09293937683105}
+{"sentence": "The people in the water, the boats, the people on the docks.", "score": -18.7405989780736, "sum_logprob": -32.2108154296875}
+{"sentence": "The child docks his boat in the water.", "score": -17.927209684527718, "sum_logprob": -27.820261001586914}
+{"sentence": "The kids in the water, the boats in the dock.", "score": -19.069041795727298, "sum_logprob": -31.34477233886719}
+{"sentence": "The men in the boat were in the dock when the water began to rise.", "score": -19.430669729118748, "sum_logprob": -33.83076095581055}
+{"sentence": "The boys dock their boat in the water.", "score": -17.72956928308731, "sum_logprob": -27.513553619384762}
+{"sentence": "A woman in a boat in the water near the dock.", "score": -17.992270282613205, "sum_logprob": -29.574827194213867}
+{"sentence": "A boy docks his boat in the water.", "score": -16.599555558950936, "sum_logprob": -25.759946823120117}
+{"sentence": "A girl docks her boat on the water.", "score": -18.17001892456526, "sum_logprob": -28.197063446044922}
+{"sentence": "The person in the water is a boat dock worker.", "score": -20.04805513009713, "sum_logprob": -32.38551330566406}
+{"sentence": "The man with the microphone was singing along to the stage.", "score": -21.20214386918374, "sum_logprob": -34.8510627746582}
+{"sentence": "A man sings in the microphone stage.", "score": -22.515910762398196, "sum_logprob": -34.12773895263672}
+{"sentence": "The boy was singing stage directions to the microphone.", "score": -22.565122778541586, "sum_logprob": -35.763309478759766}
+{"sentence": "The girl in the stage microphone is singing.", "score": -21.496065378083586, "sum_logprob": -33.35857391357422}
+{"sentence": "The woman in the stage microphone is singing.", "score": -21.273387305593868, "sum_logprob": -33.01301193237305}
+{"sentence": "A person may not sing or stage a microphone.", "score": -22.35985416583519, "sum_logprob": -35.43798065185547}
+{"sentence": "The people on the stage were singing along with the microphone.", "score": -20.308812965897747, "sum_logprob": -33.38264846801758}
+{"sentence": "The child microphone is connected to the singing stage.", "score": -24.07724792719374, "sum_logprob": -38.15986633300781}
+{"sentence": "The kids were singing and dancing, and the stage was full of microphones.", "score": -21.461995366809308, "sum_logprob": -36.888275146484375}
+{"sentence": "The men in the microphone stage are singing.", "score": -21.675071636341105, "sum_logprob": -33.6363639831543}
+{"sentence": "The boys stage a protest in front of the microphone and sing the national anthem.", "score": -21.57279252016247, "sum_logprob": -37.5604133605957}
+{"sentence": "A woman in the microphone stage sings.", "score": -21.5976753226596, "sum_logprob": -32.73595428466797}
+{"sentence": "A boy with a microphone and a stage, singing.", "score": -20.160312099005623, "sum_logprob": -32.56685256958008}
+{"sentence": "A girl with a microphone and a stage, singing.", "score": -19.694886209359396, "sum_logprob": -31.81500625610352}
+{"sentence": "The person behind the stage microphone is singing.", "score": -19.785121393553982, "sum_logprob": -30.703453063964844}
+{"sentence": "The man stops and takes a picture.", "score": -14.807957110667036, "sum_logprob": -22.444665908813477}
+{"sentence": "A man stops to take a picture.", "score": -11.479370000565089, "sum_logprob": -17.399471282958984}
+{"sentence": "The boy stops and takes a picture.", "score": -15.488382487533915, "sum_logprob": -23.475997924804688}
+{"sentence": "The girl stops and takes a picture.", "score": -15.305416435277754, "sum_logprob": -23.198673248291016}
+{"sentence": "The woman stops and takes a picture.", "score": -14.926018397773277, "sum_logprob": -22.623613357543945}
+{"sentence": "A person takes a picture of a stop sign.", "score": -15.500426658259324, "sum_logprob": -24.56652069091797}
+{"sentence": "The people that stop and take pictures.", "score": -15.72798574305247, "sum_logprob": -23.839168548583984}
+{"sentence": "The child stops crying, and the picture is taken.", "score": -17.590786518097506, "sum_logprob": -28.41605567932129}
+{"sentence": "The kids don't stop taking pictures.", "score": -14.405521895769104, "sum_logprob": -21.834688186645508}
+{"sentence": "The men stop and take a picture.", "score": -14.151610850499985, "sum_logprob": -21.449831008911133}
+{"sentence": "The boys stop and take a picture.", "score": -13.581495134981783, "sum_logprob": -20.585697174072266}
+{"sentence": "A woman stops to take a picture.", "score": -11.07506860693364, "sum_logprob": -16.786664962768555}
+{"sentence": "A boy stops to take a picture.", "score": -11.156037861437625, "sum_logprob": -16.909391403198242}
+{"sentence": "A girl stops to take a picture.", "score": -11.411578509848958, "sum_logprob": -17.29671859741211}
+{"sentence": "The person taking the picture is not stopping.", "score": -15.852340060149997, "sum_logprob": -24.600383758544922}
+{"sentence": "The man in the dress is a costume instrument.", "score": -23.763266353755316, "sum_logprob": -37.66223907470703}
+{"sentence": "A man in a dress instrument costume.", "score": -22.324191413263854, "sum_logprob": -33.8371467590332}
+{"sentence": "The boy was dressing in his instrumentals costume.", "score": -23.969817850161537, "sum_logprob": -37.989601135253906}
+{"sentence": "The girl in the dress is the instrument of the costume.", "score": -23.374647225128673, "sum_logprob": -38.422119140625}
+{"sentence": "The woman in the costume was wearing a white dress with a white instrument in her hand.", "score": -24.001705698068708, "sum_logprob": -42.785499572753906}
+{"sentence": "A person dressing in a costume or instrument of crime.", "score": -20.875998981016014, "sum_logprob": -33.72296905517578}
+{"sentence": "The people dress in costumes and instruments.", "score": -21.677861864303, "sum_logprob": -32.85749435424805}
+{"sentence": "The child dresses up in a costume and plays instruments.", "score": -20.80506529079422, "sum_logprob": -33.60838317871094}
+{"sentence": "The kids dress up in costumes and instruments.", "score": -18.03550796684906, "sum_logprob": -27.988323211669925}
+{"sentence": "The men dress in instruments and costumes.", "score": -21.80845410746343, "sum_logprob": -33.05543518066406}
+{"sentence": "The boys dress up in costumes and instruments.", "score": -19.110381293543714, "sum_logprob": -29.656360626220703}
+{"sentence": "A woman dresses in a costume instrument.", "score": -22.61974479612538, "sum_logprob": -34.28512191772461}
+{"sentence": "A boy and a girl dress up in costumes and instruments.", "score": -20.35776403501836, "sum_logprob": -33.463111877441406}
+{"sentence": "A girl in a red dress, costume, and instrument of torture.", "score": -21.48841891439344, "sum_logprob": -36.42755889892578}
+{"sentence": "The person in the dress is a costume instrument.", "score": -23.441175896293025, "sum_logprob": -37.15176010131836}
+{"sentence": "The man kicks the grass and runs away.", "score": -16.720995207864945, "sum_logprob": -25.948402404785156}
+{"sentence": "A man runs kicking and screaming through the grass.", "score": -18.0598626778563, "sum_logprob": -28.62295341491699}
+{"sentence": "The boy kicks the grass and runs away.", "score": -16.520653279697015, "sum_logprob": -25.637502670288086}
+{"sentence": "The girl kicks the grass and runs away.", "score": -16.14782784229021, "sum_logprob": -25.058935165405277}
+{"sentence": "The woman kicks the grass and runs away.", "score": -16.94548863748685, "sum_logprob": -26.29678153991699}
+{"sentence": "A person running for president of the United States kicks a grasshopper.", "score": -19.63162321064514, "sum_logprob": -33.74228286743164}
+{"sentence": "The people on the grassy knoll were running, kicking and screaming.", "score": -19.465700700332125, "sum_logprob": -33.45709991455078}
+{"sentence": "The child kicks the grass and runs away.", "score": -17.096711450941967, "sum_logprob": -26.53145599365234}
+{"sentence": "The kids were running around, kicking grass.", "score": -15.508446032042182, "sum_logprob": -24.066713333129883}
+{"sentence": "The men kick the grass and run.", "score": -18.497475519963036, "sum_logprob": -28.036930084228516}
+{"sentence": "The boys kick the grass and run around.", "score": -17.44600361616866, "sum_logprob": -27.0735034942627}
+{"sentence": "A woman kicks a man as he runs through grass.", "score": -19.593347930773717, "sum_logprob": -31.650981903076172}
+{"sentence": "A boy runs through the grass, kicking up a cloud of dust.", "score": -15.70236366961759, "sum_logprob": -26.618932723999023}
+{"sentence": "A girl runs kicking and screaming through the grass.", "score": -16.696319771448028, "sum_logprob": -26.461883544921875}
+{"sentence": "The person kicks the grass and runs away.", "score": -17.61017360093758, "sum_logprob": -27.328269958496094}
+{"sentence": "The players that score the most points in a game win.", "score": -13.352707770359975, "sum_logprob": -21.948537826538086}
+{"sentence": "The player with the highest score wins the game.", "score": -7.529885876145635, "sum_logprob": -11.934064865112305}
+{"sentence": "A player can only score once per game.", "score": -9.59869284740606, "sum_logprob": -14.895689010620115}
+{"sentence": "The man with the scorecard is the player with the most points at the end of the game.", "score": -17.871466346479753, "sum_logprob": -32.53615188598633}
+{"sentence": "A man scores a touchdown during player introductions before the game.", "score": -18.806122187988954, "sum_logprob": -31.411445617675778}
+{"sentence": "The boy player scores a goal in the game.", "score": -20.103540939541965, "sum_logprob": -31.86196517944336}
+{"sentence": "The girl player scores a goal in the game.", "score": -20.54173838911691, "sum_logprob": -32.556461334228516}
+{"sentence": "The woman scores a player on the game.", "score": -22.176938607470717, "sum_logprob": -34.415184020996094}
+{"sentence": "A person scores a game point for every player in the game.", "score": -18.762905655152103, "sum_logprob": -31.339262008666992}
+{"sentence": "The people scoring the game are the players.", "score": -16.93278359572961, "sum_logprob": -26.277065277099606}
+{"sentence": "The child player score is based on the number of children in the game.", "score": -19.057311911923275, "sum_logprob": -32.75517272949219}
+{"sentence": "The kids are game players and scorers.", "score": -18.968079172076028, "sum_logprob": -29.435529708862305}
+{"sentence": "The men in the game are the players that score the most goals.", "score": -19.50685888297449, "sum_logprob": -33.068382263183594}
+{"sentence": "The boys in the game are the players that score the most goals.", "score": -18.912000226820197, "sum_logprob": -32.059967041015625}
+{"sentence": "A woman player scores a goal during the game.", "score": -19.6896857869618, "sum_logprob": -31.2060489654541}
+{"sentence": "A boy player scores a goal in the game.", "score": -19.54552263378525, "sum_logprob": -30.97756576538086}
+{"sentence": "A girl player scores a goal during a game.", "score": -19.230828614614843, "sum_logprob": -30.478809356689453}
+{"sentence": "The person scoring the game is the player.", "score": -15.867465168388808, "sum_logprob": -24.623855590820312}
+{"sentence": "The man crosses the street and watches.", "score": -14.916829701136635, "sum_logprob": -22.60968589782715}
+{"sentence": "A man crosses the street as he watches the sun set.", "score": -14.19938396269607, "sum_logprob": -23.34026336669922}
+{"sentence": "The boy crosses the street to watch.", "score": -14.833641921273788, "sum_logprob": -22.483596801757812}
+{"sentence": "The girl crosses the street to watch.", "score": -14.62564289966776, "sum_logprob": -22.1683292388916}
+{"sentence": "The woman crosses the street to watch.", "score": -14.955464508605573, "sum_logprob": -22.668245315551758}
+{"sentence": "A person crosses the street to watch the game.", "score": -16.119874153109908, "sum_logprob": -25.548278808593754}
+{"sentence": "The people cross the street and watch.", "score": -15.258157944153528, "sum_logprob": -23.127042770385742}
+{"sentence": "The child crosses the street to watch.", "score": -15.50923763261185, "sum_logprob": -23.50760841369629}
+{"sentence": "The kids cross the street to watch.", "score": -13.95198257800748, "sum_logprob": -21.14725112915039}
+{"sentence": "The men cross the street to watch.", "score": -14.650242986020775, "sum_logprob": -22.205615997314453}
+{"sentence": "The boys cross the street to watch.", "score": -14.019918782516163, "sum_logprob": -21.25022315979004}
+{"sentence": "A woman crosses the street as she watches the sun set.", "score": -14.374735682777814, "sum_logprob": -23.628498077392578}
+{"sentence": "A boy crosses the street as he watches the sun set.", "score": -14.731104014598412, "sum_logprob": -24.214279174804688}
+{"sentence": "A girl crosses the street as a man watches.", "score": -13.485551903582765, "sum_logprob": -21.373159408569336}
+{"sentence": "The person crossing the street is watching you.", "score": -14.596613161880503, "sum_logprob": -22.651689529418945}
+{"sentence": "The man was sitting on the foot of the bed.", "score": -13.175205627431128, "sum_logprob": -21.283151626586914}
+{"sentence": "A man sits on the foot of the bed.", "score": -14.295956516807315, "sum_logprob": -22.657564163208008}
+{"sentence": "The boy was sitting on the foot of the bed.", "score": -12.057930343215938, "sum_logprob": -19.47831153869629}
+{"sentence": "The girl sat on the foot of the bed.", "score": -11.254457089981765, "sum_logprob": -17.837112426757812}
+{"sentence": "The woman was sitting on the foot of the bed.", "score": -12.613550032859873, "sum_logprob": -20.375856399536133}
+{"sentence": "A person sitting at a foot of the bed.", "score": -16.16685345047409, "sum_logprob": -25.62273597717285}
+{"sentence": "The people sitting at the foot of the bed.", "score": -14.488575607404043, "sum_logprob": -22.962844848632812}
+{"sentence": "The child sat on the foot of the bed.", "score": -11.778210607087889, "sum_logprob": -18.667205810546875}
+{"sentence": "The kids were sitting on the foot of the bed.", "score": -13.990626628651427, "sum_logprob": -22.600378036499023}
+{"sentence": "The men sat on the foot of the bed.", "score": -13.241102385983945, "sum_logprob": -20.985733032226562}
+{"sentence": "The boys were sitting on the foot of the bed.", "score": -14.00998237776598, "sum_logprob": -22.63164520263672}
+{"sentence": "A woman sits on the foot of a bed.", "score": -14.439911472160158, "sum_logprob": -22.885717391967773}
+{"sentence": "A boy sits on the foot of his bed.", "score": -12.59347236722849, "sum_logprob": -19.959308624267578}
+{"sentence": "A girl sitting on the foot of the bed.", "score": -12.231978365582522, "sum_logprob": -19.38637924194336}
+{"sentence": "The person sitting on the foot of the bed.", "score": -14.17154929122588, "sum_logprob": -22.460391998291016}
+{"sentence": "The man closes his eyes and holds his mouth shut.", "score": -15.819277940242882, "sum_logprob": -25.554370880126953}
+{"sentence": "A man closes his eyes and holds his mouth shut.", "score": -15.635468577242895, "sum_logprob": -25.2574462890625}
+{"sentence": "The boy held his mouth close to his ear.", "score": -14.004992235716857, "sum_logprob": -22.1964168548584}
+{"sentence": "The girl held close to her mouth.", "score": -13.832576081820909, "sum_logprob": -20.966264724731445}
+{"sentence": "The woman held close to her mouth.", "score": -15.343992098848867, "sum_logprob": -23.257143020629883}
+{"sentence": "A person held close to the mouth.", "score": -19.61497807690316, "sum_logprob": -29.73074722290039}
+{"sentence": "The people held close to the mouth of the river.", "score": -19.495899709830496, "sum_logprob": -31.49356460571289}
+{"sentence": "The child is held close to her mouth.", "score": -15.285186602799907, "sum_logprob": -23.72024917602539}
+{"sentence": "The kids held close to their mouths.", "score": -17.022377631342383, "sum_logprob": -25.801099777221683}
+{"sentence": "The men held close to their mouths.", "score": -16.466679184704763, "sum_logprob": -24.958818435668945}
+{"sentence": "The boys held their mouths close together.", "score": -15.642203181970128, "sum_logprob": -23.70914649963379}
+{"sentence": "A woman closes her eyes and holds her mouth shut.", "score": -15.383940658824931, "sum_logprob": -24.85112953186035}
+{"sentence": "A boy closes his eyes and holds his mouth shut.", "score": -14.685341338651043, "sum_logprob": -23.72261619567871}
+{"sentence": "A girl closes her eyes and holds her mouth shut.", "score": -14.76641043730322, "sum_logprob": -23.853574752807617}
+{"sentence": "The person holding the mouthpiece must close his or her mouth.", "score": -17.17920843145225, "sum_logprob": -28.69404792785644}
+{"sentence": "The man was climbing the building when the rope snapped.", "score": -17.95135272842242, "sum_logprob": -28.998512268066403}
+{"sentence": "A man climbs a rope ladder to the top of a building.", "score": -15.440723050545301, "sum_logprob": -25.790294647216797}
+{"sentence": "The boy was building a climbing rope.", "score": -17.88963858144018, "sum_logprob": -27.11562156677246}
+{"sentence": "The girl climbs down the rope and walks to the other side of the building.", "score": -18.447768513513974, "sum_logprob": -32.11943054199219}
+{"sentence": "The woman was climbing the building when she was hit by the rope.", "score": -19.320570349402587, "sum_logprob": -32.75258255004883}
+{"sentence": "A person climbing a building or rope.", "score": -18.30626455667383, "sum_logprob": -27.747108459472656}
+{"sentence": "The people in the building were climbing the rope.", "score": -19.763405868388084, "sum_logprob": -31.322887420654297}
+{"sentence": "The child climbs up the rope to the top of the building.", "score": -17.010329937379677, "sum_logprob": -28.41197395324707}
+{"sentence": "The kids climb up the rope building.", "score": -19.043091819592608, "sum_logprob": -28.86392974853516}
+{"sentence": "The men climb the rope to the top of the building.", "score": -16.006389251556552, "sum_logprob": -26.31053161621094}
+{"sentence": "The boys climb the rope to the top of the building.", "score": -15.235362918209653, "sum_logprob": -25.043155670166016}
+{"sentence": "A woman climbs a rope ladder to the top of a building.", "score": -16.05079501167337, "sum_logprob": -26.80928421020508}
+{"sentence": "A boy climbs up a rope ladder to the top of a building.", "score": -14.9633235166758, "sum_logprob": -25.366098403930664}
+{"sentence": "A girl climbs up a rope ladder to the top of a building.", "score": -15.747043889202502, "sum_logprob": -26.69467544555664}
+{"sentence": "The person climbing the building is wearing a rope.", "score": -18.538103910009212, "sum_logprob": -29.38091468811035}
+{"sentence": "The man was wearing headphones and a watch.", "score": -14.176427429027074, "sum_logprob": -21.99962615966797}
+{"sentence": "A man wearing headphones and a watch.", "score": -16.446742657614333, "sum_logprob": -24.9286003112793}
+{"sentence": "The boy was wearing headphones and a watch.", "score": -13.600097630208516, "sum_logprob": -21.10525131225586}
+{"sentence": "The girl was wearing headphones and a watch.", "score": -14.601420109574473, "sum_logprob": -22.659149169921875}
+{"sentence": "The woman was wearing headphones and a watch.", "score": -14.719750175858529, "sum_logprob": -22.8427791595459}
+{"sentence": "A person wearing headphones or watching a video.", "score": -16.383317886848946, "sum_logprob": -25.424379348754883}
+{"sentence": "The people are watching, and they're wearing headphones.", "score": -18.096669028719823, "sum_logprob": -29.233255386352543}
+{"sentence": "The child was wearing headphones and watching TV.", "score": -13.969341516712683, "sum_logprob": -21.678260803222656}
+{"sentence": "The kids were wearing headphones and watching TV.", "score": -15.66946095807154, "sum_logprob": -24.31658363342285}
+{"sentence": "The men were wearing headphones and were watching a movie.", "score": -16.943590390609643, "sum_logprob": -27.37057876586914}
+{"sentence": "The boys were wearing headphones and were watching a movie.", "score": -16.517715500053892, "sum_logprob": -26.682622909545902}
+{"sentence": "A woman wearing headphones watches a video.", "score": -16.95684115902845, "sum_logprob": -25.701765060424805}
+{"sentence": "A boy wears headphones as he watches.", "score": -16.162553711800946, "sum_logprob": -24.497850418090824}
+{"sentence": "A girl watches a video on her phone while wearing headphones.", "score": -16.48492639085744, "sum_logprob": -27.09712791442871}
+{"sentence": "The person was wearing headphones and was watching TV.", "score": -15.485755330694019, "sum_logprob": -24.54326820373535}
+{"sentence": "The student said he was watching the class.", "score": -16.094154971196378, "sum_logprob": -24.975643157958984}
+{"sentence": "A student in the class was watching.", "score": -13.14062897030529, "sum_logprob": -19.917469024658203}
+{"sentence": "The man in the class was watching the students.", "score": -19.453053917124787, "sum_logprob": -30.831012725830075}
+{"sentence": "A man watches as a student walks by during a class at the University of California, Berkeley, in Berkeley, California, U.", "score": -18.41069191137466, "sum_logprob": -35.323585510253906}
+{"sentence": "The boy had been watching the students in class.", "score": -16.991695920872044, "sum_logprob": -26.930023193359375}
+{"sentence": "The girl had been watching the students from her class.", "score": -18.554350493401593, "sum_logprob": -29.972591400146488}
+{"sentence": "The woman in the class was watching the students.", "score": -18.94802857650716, "sum_logprob": -30.03060150146484}
+{"sentence": "A person watching a class of students.", "score": -18.834564278048564, "sum_logprob": -28.547861099243168}
+{"sentence": "The people in the class were watching the students.", "score": -19.242340871155708, "sum_logprob": -30.497055053710938}
+{"sentence": "The child students are watching the class.", "score": -20.04897599914706, "sum_logprob": -30.388565063476562}
+{"sentence": "The kids in the class were watching the students.", "score": -17.77314418822269, "sum_logprob": -28.16853523254395}
+{"sentence": "The men had been watching the students as they walked to class.", "score": -16.760418588593513, "sum_logprob": -27.99455261230469}
+{"sentence": "The boys in the class were watching the students.", "score": -18.122072909652978, "sum_logprob": -28.72154998779297}
+{"sentence": "A woman watches as a class of students walks by.", "score": -18.872103340529186, "sum_logprob": -30.485887527465817}
+{"sentence": "A boy watches a class of students.", "score": -16.06939703920248, "sum_logprob": -24.356651306152344}
+{"sentence": "A girl watches a student film in class.", "score": -17.05176876380883, "sum_logprob": -26.461711883544922}
+{"sentence": "The person to watch out for in this class is the student.", "score": -17.220522500457523, "sum_logprob": -28.763053894042972}
+{"sentence": "The man jumps out of the car and runs towards the trampoline house.", "score": -21.610751044867065, "sum_logprob": -37.626502990722656}
+{"sentence": "A man has been arrested in connection with the death of a trampoline jumper at a house party.", "score": -23.698281360095123, "sum_logprob": -43.97454833984375}
+{"sentence": "The boy jumps out of the house and runs to the trampoline.", "score": -19.098138361945452, "sum_logprob": -32.82534408569336}
+{"sentence": "The girl jumps out of the house and runs to the front door of the trampoline park.", "score": -23.205962090186507, "sum_logprob": -42.24794387817383}
+{"sentence": "The woman jumps out of the house and runs to the trampoline.", "score": -20.230108561753067, "sum_logprob": -34.77094268798828}
+{"sentence": "A person whose house has been destroyed or damaged by fire, jumping or trampoline.", "score": -24.54989487214605, "sum_logprob": -43.76270294189453}
+{"sentence": "The people of the United States have a right to jump off a trampoline at the house of their choice.", "score": -24.746208548318542, "sum_logprob": -46.329139709472656}
+{"sentence": "The child jumps out of the house and runs to the trampoline.", "score": -19.857829930553287, "sum_logprob": -34.131080627441406}
+{"sentence": "The kids are jumping on the trampoline house.", "score": -18.275234758350827, "sum_logprob": -29.521709442138672}
+{"sentence": "The men would jump out of the house and run to the trampoline.", "score": -21.52252513590287, "sum_logprob": -37.47289276123047}
+{"sentence": "The boys jump out of the car and run to the back of the trampoline house.", "score": -21.74138475331857, "sum_logprob": -39.177608489990234}
+{"sentence": "A woman walks past the wreckage of houses damaged by a landslide in Atsuma town, Hokkaido prefecture, after jumping off the trampoline at", "score": -22.495498657226562, "sum_logprob": -44.990997314453125}
+{"sentence": "A boy in a house with a trampoline jumps.", "score": -19.87213359733568, "sum_logprob": -32.66485595703125}
+{"sentence": "A girl in the house, a girl with a trampoline and jumping rope.", "score": -24.068801174397034, "sum_logprob": -42.41741943359375}
+{"sentence": "The person jumping out of the house is a trampoline.", "score": -21.063720975656054, "sum_logprob": -35.1822624206543}
+{"sentence": "The man put a sock on his foot.", "score": -14.384468339643233, "sum_logprob": -22.322473526000977}
+{"sentence": "A man puts socks on his feet.", "score": -13.264190639909307, "sum_logprob": -20.104753494262695}
+{"sentence": "The boy put his sock foot in his mouth.", "score": -16.571149554998215, "sum_logprob": -26.263502120971683}
+{"sentence": "The girl put the sock on her foot.", "score": -14.74770077609084, "sum_logprob": -22.886154174804688}
+{"sentence": "The woman put her foot on the sock.", "score": -18.07403606435938, "sum_logprob": -28.04811286926269}
+{"sentence": "A person puts a sock on a foot.", "score": -16.916988636687115, "sum_logprob": -26.252553939819336}
+{"sentence": "The people put their socks on the wrong feet.", "score": -16.66046401445675, "sum_logprob": -26.40505599975586}
+{"sentence": "The child put the sock on the foot.", "score": -15.724094972887354, "sum_logprob": -24.4013671875}
+{"sentence": "The kids put their feet in socks.", "score": -16.4272780233257, "sum_logprob": -24.899097442626953}
+{"sentence": "The men put socks on their feet.", "score": -14.14059372655397, "sum_logprob": -21.43313217163086}
+{"sentence": "The boys put on their socks and feet.", "score": -16.21077538157598, "sum_logprob": -25.156620025634766}
+{"sentence": "A woman puts a sock on her foot.", "score": -14.223068710308272, "sum_logprob": -22.072006225585938}
+{"sentence": "A boy puts a sock on his foot.", "score": -13.288908299413112, "sum_logprob": -20.622333526611328}
+{"sentence": "A girl puts a sock on her foot.", "score": -13.531850280527344, "sum_logprob": -20.99934196472168}
+{"sentence": "The person putting the sock on the other foot.", "score": -18.590065513674794, "sum_logprob": -29.463268280029297}
+{"sentence": "The man was eating a spoonful of ice cream.", "score": -15.837669030843031, "sum_logprob": -25.58407974243164}
+{"sentence": "A man eats a spoonful of cream.", "score": -16.628896253236398, "sum_logprob": -25.805479049682614}
+{"sentence": "The boy was eating a spoonful of ice cream.", "score": -14.590457668862388, "sum_logprob": -23.5693416595459}
+{"sentence": "The girl was eating a spoonful of cream.", "score": -16.804877486404, "sum_logprob": -26.633935928344727}
+{"sentence": "The woman was eating a spoonful of ice cream.", "score": -15.925071579031625, "sum_logprob": -25.725269317626953}
+{"sentence": "A person eating a spoonful of cream.", "score": -17.40077209428531, "sum_logprob": -27.003311157226562}
+{"sentence": "The people were eating spoonfuls of cream.", "score": -20.23278244638251, "sum_logprob": -32.06679916381836}
+{"sentence": "The child had been eating a spoonful of ice cream.", "score": -15.39916206530119, "sum_logprob": -25.312400817871094}
+{"sentence": "The kids were eating spoonfuls of ice cream.", "score": -14.703496282736038, "sum_logprob": -23.751943588256836}
+{"sentence": "The men were eating spoonfuls of cream cheese.", "score": -19.5344990384649, "sum_logprob": -31.55591773986816}
+{"sentence": "The boys eat spoonfuls of cream.", "score": -18.154339499422846, "sum_logprob": -28.172731399536133}
+{"sentence": "A woman eats a spoonful of cream.", "score": -16.06582089674251, "sum_logprob": -24.931673049926758}
+{"sentence": "A boy is eating a spoonful of ice cream.", "score": -14.012437120790999, "sum_logprob": -22.635610580444336}
+{"sentence": "A girl eats a spoonful of cream.", "score": -14.908069203913339, "sum_logprob": -23.135021209716797}
+{"sentence": "The person eating the spoonful of cream.", "score": -19.26099939764945, "sum_logprob": -29.89009666442871}
+{"sentence": "The man daydreams about sailing boats.", "score": -19.584549626669926, "sum_logprob": -30.392196655273438}
+{"sentence": "A man sails a boat through the day.", "score": -17.08591026036805, "sum_logprob": -26.51469421386719}
+{"sentence": "The boy daydreams of sailing boats.", "score": -18.177076325142803, "sum_logprob": -28.20801544189453}
+{"sentence": "The girl daydreams of sailing on a boat.", "score": -17.398258625758054, "sum_logprob": -28.105047225952145}
+{"sentence": "The woman daydreams about sailing boats.", "score": -19.819894639311535, "sum_logprob": -30.75741577148437}
+{"sentence": "A person can sail a boat day in and day out.", "score": -18.57985136468042, "sum_logprob": -30.540664672851562}
+{"sentence": "The people on the boat were sailing day and night.", "score": -18.838191520220576, "sum_logprob": -30.431106567382812}
+{"sentence": "The child was sailing on a day boat.", "score": -18.992364643690742, "sum_logprob": -29.473217010498047}
+{"sentence": "The kids are daydreaming about sailing boats.", "score": -17.291859416785666, "sum_logprob": -27.405750274658203}
+{"sentence": "The men had been sailing for more than a day when the boat capsized.", "score": -17.492126229228813, "sum_logprob": -30.4555606842041}
+{"sentence": "The boys had been sailing in the same boat for a few days.", "score": -16.628083902967568, "sum_logprob": -28.188230514526367}
+{"sentence": "A woman daydreams of sailing on a boat.", "score": -17.568527347579142, "sum_logprob": -28.380098342895504}
+{"sentence": "A boy daydreams of sailing on a boat.", "score": -16.109161956384643, "sum_logprob": -26.022647857666012}
+{"sentence": "A girl daydreams of sailing on a boat.", "score": -16.545363534048057, "sum_logprob": -26.727285385131836}
+{"sentence": "The person daydreaming about sailing on a boat.", "score": -19.14437200737308, "sum_logprob": -30.925708770751953}
+{"sentence": "The man taking part in the class.", "score": -16.64480676276647, "sum_logprob": -25.228809356689453}
+{"sentence": "A man takes part in a class.", "score": -13.619624073367191, "sum_logprob": -20.643489837646484}
+{"sentence": "The boy takes part in a class.", "score": -15.980467267727338, "sum_logprob": -24.221858978271484}
+{"sentence": "The girl takes part in a class.", "score": -15.445783780529862, "sum_logprob": -23.41143035888672}
+{"sentence": "The woman takes part in a class.", "score": -16.12406865164778, "sum_logprob": -24.439517974853516}
+{"sentence": "A person taking part in a class.", "score": -14.346281102621582, "sum_logprob": -21.744895935058594}
+{"sentence": "The people taking part in the class.", "score": -15.513678458471984, "sum_logprob": -23.514339447021484}

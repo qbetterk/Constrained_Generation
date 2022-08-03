@@ -1,0 +1,6 @@
+ipython
+pandas
+sklearn
+tensorboard
+tensorboardX
+transformers
