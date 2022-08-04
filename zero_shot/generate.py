@@ -518,6 +518,8 @@ def _generate_beam_search(
         model_inputs = self.prepare_inputs_for_generation(
             input_ids, past=past, attention_mask=attention_mask, use_cache=use_cache, **model_specific_kwargs
         )
+        # import pdb
+        # pdb.set_trace()
         model_inputs["attention_mask"] = attention_mask
         model_inputs["position_ids"] = position_ids[:, -1].unsqueeze(-1) if past else position_ids
 
@@ -768,9 +770,19 @@ def _generate_beam_search(
     return decoded, best_scores, best_sum_logprobs
 
 
-def _reorder_cache(past: Tuple, beam_idx: Tensor) -> Tuple[Tensor]:
-    return tuple(layer_past.index_select(1, beam_idx) for layer_past in past)
-
+# def _reorder_cache(past: Tuple, beam_idx: Tensor) -> Tuple[Tensor]:
+#     return tuple(layer_past[0].index_select(1, beam_idx) for layer_past in past)
+def _reorder_cache(past: Tuple[Tuple[torch.Tensor]], beam_idx: torch.Tensor) -> Tuple[Tuple[torch.Tensor]]:
+        """
+        This function is used to re-order the `past_key_values` cache if [`~PreTrainedModel.beam_search`] or
+        [`~PreTrainedModel.beam_sample`] is called. This is required to match `past_key_values` with the correct
+        beam_idx at every generation step.
+        """
+        return tuple(
+            tuple(past_state.index_select(0, beam_idx.to(past_state.device)) for past_state in layer_past)
+            for layer_past in past
+        )
+        
 
 def _use_cache(self, outputs, use_cache):
     """During generation, decide whether to pass the `past` variable to the next forward pass."""

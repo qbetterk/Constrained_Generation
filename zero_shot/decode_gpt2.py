@@ -140,12 +140,14 @@ def main():
                                                      prune_factor=args.prune_factor,
                                                      sat_tolerance=args.sat_tolerance,
                                                      beta=args.beta,
+                                                     use_cache=True,
                                                      early_stop=args.early_stop)
 
             prompt = [tokenizer.decode(x) for x in buf]
             output_sequences = [prompt[i] + tokenizer.decode(o).split(prompt[i])[-1].split('<|endoftext|>')[0].rstrip()
                                 for i, o in enumerate(outputs)]
-
+            # import pdb
+            # pdb.set_trace()
             for hypothesis, score, sum_logprob in zip(output_sequences, scores, sum_logprobs):
                 log = json.dumps({'sentence': hypothesis.strip().replace('<|endoftext|>', ''),
                                   'score': score, 'sum_logprob': sum_logprob})

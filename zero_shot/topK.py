@@ -44,7 +44,7 @@ def topk_huggingface(timestep: int,
     """
 
     seq_scores, raw_token_idx = torch.topk(scores, beam_size, dim=1, largest=True, sorted=True)
-    best_ids = torch.div(raw_token_idx, vocab_size, rounding_mode='trunc') # (raw_token_idx // vocab_size).cpu().numpy()
+    best_ids = torch.div(raw_token_idx, vocab_size, rounding_mode='trunc').cpu().numpy() # (raw_token_idx // vocab_size).cpu().numpy()
     best_word_ids = (raw_token_idx % vocab_size).cpu().numpy()
     seq_scores = seq_scores.cpu().numpy()
 
