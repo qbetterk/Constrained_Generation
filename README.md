@@ -6,9 +6,9 @@ This is the official repo for the paper ["Neurologic Decoding: (Un)supervised Ne
 We suggest using conda to setup environment. With conda installed, create three new environments:
 * Huggingface 
     ```
-    conda create -n hug python=3.7
+    conda create -n hug python=3.9
     conda activate hug
-    pip install -r huggingface.txt
+    pip install -r requirement_hug.txt
     ```
 * Fairseq
    
