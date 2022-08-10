@@ -42,7 +42,6 @@ def topk_huggingface(timestep: int,
     :return: A tuple containing the best hypothesis rows, the best hypothesis words, the scores,
         the updated constrained hypotheses, and the updated set of inactive hypotheses.
     """
-
     seq_scores, raw_token_idx = torch.topk(scores, beam_size, dim=1, largest=True, sorted=True)
     best_ids = torch.div(raw_token_idx, vocab_size, rounding_mode='trunc').cpu().numpy() # (raw_token_idx // vocab_size).cpu().numpy()
     best_word_ids = (raw_token_idx % vocab_size).cpu().numpy()
@@ -83,6 +82,8 @@ def topk_huggingface(timestep: int,
                                                                                   num_fill=num_fill,
                                                                                   early_stop=early_stop)
 
+        # time2 = time()
+        # print(f"_sequential_topk takes: {time2 - time1}")
     select_raw_token_idx = select_best_ids * vocab_size + select_best_word_ids
     return select_seq_scores, select_raw_token_idx, select_hypotheses, select_num_mets
 
@@ -118,6 +119,10 @@ def _sequential_topk(timestep: int,
         the updated constrained hypotheses, and the updated set of inactive hypotheses.
     """
 
+    # import pdb
+    # pdb.set_trace()
+    # from time import time
+    # time0 = time()
     candidates = set()
     finished_candidates = set()
     # the best item (constrained or not) in that row
@@ -136,8 +141,16 @@ def _sequential_topk(timestep: int,
             candidates.add(cand)
 
     hit = np.stack([best_ids, best_word_ids], axis=1).tolist()
+    hit = set([tuple(i) for i in hit])
     # For each hypothesis, we add (2) all the constraints that could follow it and
     # (3) the best item (constrained or not) in that row
+    # import pdb
+    # pdb.set_trace()
+
+    # time1 = time()
+    # print(f"add candidates: {time1 - time0}")
+    # import pdb
+    # pdb.set_trace()
     for row in range(beam_size):
         if inactive[row]:
             continue
@@ -155,7 +168,7 @@ def _sequential_topk(timestep: int,
 
         # Now, create new candidates for each of these items
         for col in nextones:
-            if [row, col] not in hit and (rank[row, col] < prune_factor and scores[row, col] > NEGATIVE_INF):
+            if (row, col) not in hit and (rank[row, col] < prune_factor and scores[row, col] > NEGATIVE_INF):
                 new_item = hyp.advance(col)
                 score = scores[row, col]
                 cand = ConstrainedCandidate(row, col, score, new_item)
@@ -173,6 +186,9 @@ def _sequential_topk(timestep: int,
                     score = scores[row, col]
                     cand = ConstrainedCandidate(row, col, score, new_item)
                     finished_candidates.add(cand)
+
+    # time2 = time()
+    # print(f"create new cand: {time2 - time1}")
 
     if num_fill is not None:
         assert num_fill > beam_size, "at least select number of beam candidates"
@@ -218,6 +234,8 @@ def _sequential_topk(timestep: int,
         # Sort candidates in each chunk by score
         chunk_candidates = [sorted(x, key=attrgetter('rank'), reverse=True) for x in chunk_candidates]
 
+    # time3 = time()
+    # print(f"group cand: {time3 - time2}")
     pruned_candidates = sorted(finished_candidates, key=attrgetter('score'), reverse=True)[:(num_fill if not candidates else beam_size)]
     num_finish = len(pruned_candidates)
     for chunk in chunk_candidates:
@@ -252,6 +270,8 @@ def _sequential_topk(timestep: int,
 
     assert len(pruned_candidates) == num_fill, 'candidates number mismatch'
 
+    # time4 = time()
+    # print(f"rest: {time4 - time3}")
     return (np.array([x.row for x in pruned_candidates]),
             np.array([x.col for x in pruned_candidates]),
             np.array([x.score for x in pruned_candidates]),

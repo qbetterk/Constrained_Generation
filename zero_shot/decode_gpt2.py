@@ -3,12 +3,13 @@ import math
 import argparse
 import torch
 import logging
+import time
 import numpy as np
 from tqdm import tqdm
 from pathlib import Path
 from os import path
 from itertools import islice
-from transformers import AutoTokenizer, AutoModelWithLMHead
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
 from zero_shot import utils
 from zero_shot.init_beam import get_init_candidate
@@ -52,7 +53,7 @@ def main():
 
     print(f"Decoding with: {args.model_name}")
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
-    model = AutoModelWithLMHead.from_pretrained(args.model_name)
+    model = AutoModelForCausalLM.from_pretrained(args.model_name)
 
     torch.cuda.empty_cache()
     model.eval()
@@ -88,6 +89,14 @@ def main():
             expanded_items.extend([item] * factor)
         return expanded_items
 
+    from nltk.stem.snowball import SnowballStemmer
+    # from nltk.stem import PorterStemmer
+    stemmer = SnowballStemmer("english") # =PorterStemmer()
+    for cons in tqdm(constraints_list):
+        for i, clause in enumerate(cons):
+            cons[i] = set([stemmer.stem(word) for word in clause])
+    # import pdb
+    # pdb.set_trace()
     constraints_list = utils.tokenize_constraints(tokenizer, constraints_list)
     constraints_list = expand_factor(constraints_list, init_factor)
 
@@ -142,6 +151,7 @@ def main():
                                                      beta=args.beta,
                                                      use_cache=True,
                                                      early_stop=args.early_stop)
+
 
             prompt = [tokenizer.decode(x) for x in buf]
             output_sequences = [prompt[i] + tokenizer.decode(o).split(prompt[i])[-1].split('<|endoftext|>')[0].rstrip()
